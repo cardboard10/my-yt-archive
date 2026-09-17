@@ -1,0 +1,44 @@
+{
+    "_type": "url",
+    "ie_key": "Youtube",
+    "id": "pCzo5gPVZBk",
+    "url": "https://www.youtube.com/watch?v=pCzo5gPVZBk",
+    "title": "September 14, 2026",
+    "description": null,
+    "duration": 50,
+    "channel_id": "UCii4x8YBOXK0fnsgdC3EgiQ",
+    "channel": "Reagan Renee",
+    "channel_url": "https://www.youtube.com/channel/UCii4x8YBOXK0fnsgdC3EgiQ",
+    "uploader": "Reagan Renee",
+    "uploader_id": "@ReaganRenee-c2f5x",
+    "uploader_url": "https://www.youtube.com/@ReaganRenee-c2f5x",
+    "thumbnails": [
+        {
+            "url": "https://i.ytimg.com/vi/pCzo5gPVZBk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHOBYACgAqKAgwIABABGGUgVyhKMA8=&rs=AOn4CLCIIx-XypL-7s5t10NlVTzFryjv1Q",
+            "height": 94,
+            "width": 168
+        },
+        {
+            "url": "https://i.ytimg.com/vi/pCzo5gPVZBk/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHOBYACgAqKAgwIABABGGUgVyhKMA8=&rs=AOn4CLCLxwXyNA2vzO9Z7bjXfGdNeNCAMg",
+            "height": 110,
+            "width": 196
+        },
+        {
+            "url": "https://i.ytimg.com/vi/pCzo5gPVZBk/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIFcoSjAP&rs=AOn4CLBLe_LwFozr_h_LvjP40a3HB2f_7w",
+            "height": 138,
+            "width": 246
+        },
+        {
+            "url": "https://i.ytimg.com/vi/pCzo5gPVZBk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAoAKigIMCAAQARhlIFcoSjAP&rs=AOn4CLAwNafzH9Ih_jfVWU4JkkphF5s2UQ",
+            "height": 188,
+            "width": 336
+        }
+    ],
+    "timestamp": null,
+    "release_timestamp": null,
+    "availability": null,
+    "view_count": 84,
+    "live_status": null,
+    "channel_is_verified": null,
+    "__x_forwarded_for_ip": null
+}
