@@ -1,25 +1,304 @@
 {
+    "id": "PLHT3mChXuCBI",
     "title": "anticipatory nostalgia",
+    "availability": "public",
+    "channel_follower_count": null,
+    "description": "being content with right now  and looking forward to the future",
+    "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/vi/3c909oqLfao/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBJhhaI7SLqy_n-vD81ZV0wQznBKQ",
-            "height": 270,
-            "width": 480
+            "url": "https://i.ytimg.com/vi/3c909oqLfao/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDjszMjG8U2iGb8IwUNM2tu3HdP-A",
+            "height": 94,
+            "width": 168,
+            "id": "0",
+            "resolution": "168x94"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/3c909oqLfao/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCdgpSALaJyGGxULwb5reo94-hVjw",
+            "height": 110,
+            "width": 196,
+            "id": "1",
+            "resolution": "196x110"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/3c909oqLfao/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCOjcM1ZKQfMFnL7MM782rbKzRe4g",
+            "height": 138,
+            "width": 246,
+            "id": "2",
+            "resolution": "246x138"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/3c909oqLfao/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAr4Ea16iTB5LgNaL_CASqcwA4nLw",
+            "height": 188,
+            "width": 336,
+            "id": "3",
+            "resolution": "336x188"
         }
     ],
-    "duration": null,
-    "view_count": null,
-    "timestamp": null,
-    "live_status": null,
-    "availability": null,
-    "channel_url": null,
-    "uploader_url": null,
-    "creators": null,
-    "channel": "View full playlist",
-    "uploader": "View full playlist",
-    "ie_key": "YoutubeTab",
-    "id": "PLHT3mChXuCBI",
-    "_type": "url",
-    "url": "https://www.youtube.com/playlist?list=PLHT3mChXuCBI",
-    "__x_forwarded_for_ip": null
+    "modified_date": "20260831",
+    "view_count": 9,
+    "playlist_count": 6,
+    "channel": "Landon Davis",
+    "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_id": "@LandonDavis-v7p",
+    "uploader": "Landon Davis",
+    "channel_url": "https://www.youtube.com/channel/UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_url": "https://www.youtube.com/@LandonDavis-v7p",
+    "_type": "playlist",
+    "entries": [
+        {
+            "title": "Jordan Davis - Next Thing You Know (Official Music Video)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/3c909oqLfao/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAdDpW47YhWwtYs8qm1pT4BtsDf0A",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/3c909oqLfao/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAh-bBkMdJ5jMsQK2WfMEN4YS7XPA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/3c909oqLfao/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBD2TEmWaCq44vKLSztF0yucErKOw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/3c909oqLfao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyKl7VAy0PMxORwhh2a2Hc4tlhqA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 176,
+            "view_count": 50000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCLEhUvVUBhH8Q9Mx6Bz3BQA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Jordan Davis",
+            "channel_id": "UCLEhUvVUBhH8Q9Mx6Bz3BQA",
+            "uploader": "Jordan Davis",
+            "ie_key": "Youtube",
+            "id": "3c909oqLfao",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=3c909oqLfao",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "That's What Love Is",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/LdOtr9AUPWs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCRgBAAQ2CjdCjDP02oJaw2a1zR4g",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/LdOtr9AUPWs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC-wZP4ZKl5u-FvUqohWh0ulz6CNA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/LdOtr9AUPWs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCUEwuGdOzTgsKGt-HzVbVbftTQ3A",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/LdOtr9AUPWs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7w1vBCFHzmPX53_YE86bD0pPKjQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 245,
+            "view_count": 3600000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCNElJ4ZqXXTViaFAckNgEpQ",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Alexandra Kay",
+            "channel_id": "UCNElJ4ZqXXTViaFAckNgEpQ",
+            "uploader": "Alexandra Kay",
+            "ie_key": "Youtube",
+            "id": "LdOtr9AUPWs",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=LdOtr9AUPWs",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Caleb Hearn & ROSIE - Little Bit Better (Official Fan Video)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/1TDB9jj8fCE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDeBxW-tW4PxdRMiMCF_Zqg1rVMhw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/1TDB9jj8fCE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgcmvr1GX4-8IDV9W_0MPjMtmtwQ",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/1TDB9jj8fCE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKljkZV6jdfUmnSh9QQaaRXqlv2g",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/1TDB9jj8fCE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTgpekMIegUGvy9n3hGAESa44lww",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 229,
+            "view_count": 3000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UChVTSJ_qKerS9gs2IHBvk8w",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Caleb Hearn",
+            "channel_id": "UChVTSJ_qKerS9gs2IHBvk8w",
+            "uploader": "Caleb Hearn",
+            "ie_key": "Youtube",
+            "id": "1TDB9jj8fCE",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=1TDB9jj8fCE",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Tapestry",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/MF2Q8J79_7c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA7kU8emaRwJu33U3Uh7HHiebDjKQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/MF2Q8J79_7c/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBrXIfwgNLzwgpq6XrTNHW2xxiiQA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/MF2Q8J79_7c/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB96DQN0o-K53IGZiYHtZB4TBaMMQ",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/MF2Q8J79_7c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh1XPwWriSB0xdcLw0OSRFHKAPFQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 222,
+            "view_count": 891000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCJUiQGO3vFeULmUgMD7xx1Q",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Release - Topic",
+            "channel_id": "UCJUiQGO3vFeULmUgMD7xx1Q",
+            "uploader": "Release - Topic",
+            "ie_key": "Youtube",
+            "id": "MF2Q8J79_7c",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=MF2Q8J79_7c",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "for KING + COUNTRY - Ever & Ever Before with M\u014cRIAH & Courtney Smallbone (Official Music Video)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/-7H-PGFBXpA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFPbv_D6pqyxdlQpifU5q-fn-oWg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/-7H-PGFBXpA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDLbcrZP_eLbGEpK12Krxbhk9gpFg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/-7H-PGFBXpA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMW02Odi5v12tV1rr1SUyixqq8Rg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/-7H-PGFBXpA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbofCi-l8IlxZcbXZ0CdMtVoZrzA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 238,
+            "view_count": 785000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCeqMRt_qlZOAfQ_fDxc0D4g",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "for KING + COUNTRY",
+            "channel_id": "UCeqMRt_qlZOAfQ_fDxc0D4g",
+            "uploader": "for KING + COUNTRY",
+            "ie_key": "Youtube",
+            "id": "-7H-PGFBXpA",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=-7H-PGFBXpA",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Jordan Davis - Buy Dirt ft. Luke Bryan (Official Music Video)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/AKec3LTILRU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6j0H6z_dLmOe0AH3_jfgls-sqig",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/AKec3LTILRU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBJjPwjytlx19ZiNG4V4jZN_p05Jg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/AKec3LTILRU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRhx9QVxYZj7dfGFVDRHTzodS5Aw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/AKec3LTILRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2S7Y1HAy6Y2Bbz-LRVErZ6II3hA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 224,
+            "view_count": 74000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCLEhUvVUBhH8Q9Mx6Bz3BQA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Jordan Davis",
+            "channel_id": "UCLEhUvVUBhH8Q9Mx6Bz3BQA",
+            "uploader": "Jordan Davis",
+            "ie_key": "Youtube",
+            "id": "AKec3LTILRU",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=AKec3LTILRU",
+            "__x_forwarded_for_ip": null
+        }
+    ],
+    "extractor_key": "YoutubeTab",
+    "extractor": "youtube:tab",
+    "webpage_url": "https://www.youtube.com/playlist?list=PLHT3mChXuCBI",
+    "original_url": "https://www.youtube.com/playlist?list=PLHT3mChXuCBI",
+    "webpage_url_basename": "playlist",
+    "webpage_url_domain": "youtube.com",
+    "release_year": null,
+    "epoch": 1789655111
 }

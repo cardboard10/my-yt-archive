@@ -1,25 +1,264 @@
 {
+    "id": "PLfTI11NRdIKE",
     "title": "bass heavy",
+    "availability": "public",
+    "channel_follower_count": null,
+    "description": "",
+    "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/vi/No3Wyf1YlEE/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCtxbbVTid6seNSEULN--NShNhPNA",
-            "height": 270,
-            "width": 480
+            "url": "https://i.ytimg.com/vi/No3Wyf1YlEE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDHg9m1q9wMgXUBH2_OlUCQ3cREOQ",
+            "height": 94,
+            "width": 168,
+            "id": "0",
+            "resolution": "168x94"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/No3Wyf1YlEE/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDSq7SoLGjdfbk6401ggiaIaq66xA",
+            "height": 110,
+            "width": 196,
+            "id": "1",
+            "resolution": "196x110"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/No3Wyf1YlEE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCgnGm6fiyt6vdNAPnoejjmn2U2_A",
+            "height": 138,
+            "width": 246,
+            "id": "2",
+            "resolution": "246x138"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/No3Wyf1YlEE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLADCfI4vKeHZi1WqTkBLyURVw-Lbw",
+            "height": 188,
+            "width": 336,
+            "id": "3",
+            "resolution": "336x188"
         }
     ],
-    "duration": null,
-    "view_count": null,
-    "timestamp": null,
-    "live_status": null,
-    "availability": null,
-    "channel_url": null,
-    "uploader_url": null,
-    "creators": null,
-    "channel": "View full playlist",
-    "uploader": "View full playlist",
-    "ie_key": "YoutubeTab",
-    "id": "PLfTI11NRdIKE",
-    "_type": "url",
-    "url": "https://www.youtube.com/playlist?list=PLfTI11NRdIKE",
-    "__x_forwarded_for_ip": null
+    "modified_date": "20260827",
+    "view_count": 51,
+    "playlist_count": 5,
+    "channel": "Landon Davis",
+    "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_id": "@LandonDavis-v7p",
+    "uploader": "Landon Davis",
+    "channel_url": "https://www.youtube.com/channel/UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_url": "https://www.youtube.com/@LandonDavis-v7p",
+    "_type": "playlist",
+    "entries": [
+        {
+            "title": "bury a friend (Originally Perfomed By Billie Eilish)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/No3Wyf1YlEE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCxzuZ5oeL_tu_L3NhtOxz0c1NExA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/No3Wyf1YlEE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCqR4ucBkjexeHXBhyr-sPWaIDXqg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/No3Wyf1YlEE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPAUC6FkwopJO6lxuBWyZuWJTsig",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/No3Wyf1YlEE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6lDgxOlQuNd5LVnIXevpo1fJ8ag",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 186,
+            "view_count": 57,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCqckPb8WWcbCGoA1uN88mCQ",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Release - Topic",
+            "channel_id": "UCqckPb8WWcbCGoA1uN88mCQ",
+            "uploader": "Release - Topic",
+            "ie_key": "Youtube",
+            "id": "No3Wyf1YlEE",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=No3Wyf1YlEE",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "James Blake - Limit To Your Love",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/oOT2-OTebx0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD4gUyhlMA8=&rs=AOn4CLCDT2u4wZ_zRl1KCKxuSe4QhBUGvg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/oOT2-OTebx0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD4gUyhlMA8=&rs=AOn4CLCvhGaom13jnMDOSH-B295xSeJEBA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/oOT2-OTebx0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IFMoZTAP&rs=AOn4CLB9TVJInlols4odrRWmMXMOvM1wdw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/oOT2-OTebx0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IFMoZTAP&rs=AOn4CLAYj5slRCYigL3HRW7Rh2Cp0BzYQw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 199,
+            "view_count": 28000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCIZ4NEJamsWybup2TJUdoPA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "James Blake",
+            "channel_id": "UCIZ4NEJamsWybup2TJUdoPA",
+            "uploader": "James Blake",
+            "ie_key": "Youtube",
+            "id": "oOT2-OTebx0",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=oOT2-OTebx0",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "deadmau5 - Strobe",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/tKi9Z-f6qX4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGBEgZShyMA8=&rs=AOn4CLDp-zoxcz2z_Aj1IxvB656RFanFxA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/tKi9Z-f6qX4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGBEgZShyMA8=&rs=AOn4CLDVy7BboOF9m8hJ_T5GUHEw4pPJ4A",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/tKi9Z-f6qX4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARgRIGUocjAP&rs=AOn4CLAUTirKl0_CUlQIgNUYk3dcoBNVgg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/tKi9Z-f6qX4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARgRIGUocjAP&rs=AOn4CLDOm3SqK47FCze4PNxbQnOPrPZ56Q",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 637,
+            "view_count": 71000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCYEK6xds6eo-3tr4xRdflmQ",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "deadmau5",
+            "channel_id": "UCYEK6xds6eo-3tr4xRdflmQ",
+            "uploader": "deadmau5",
+            "ie_key": "Youtube",
+            "id": "tKi9Z-f6qX4",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=tKi9Z-f6qX4",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Minion Banana song ( Bassboosted)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/yH0ZDELCHxQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAkeUuzhr-qzRBbXc8CIgkJXpuTwA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/yH0ZDELCHxQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAye8jNcN5Hoc30L2tZNmimbtV-WQ",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/yH0ZDELCHxQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsFy7WshhxCxQfQAzs5KaVaKXkTA",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/yH0ZDELCHxQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKIPhtyEMnPNxYCkJiuC3hBiVwEQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 163,
+            "view_count": 8000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCrSqAh8oFYvD1I0gEWrClwA",
+            "uploader_url": "https://www.youtube.com/@djshadex7984",
+            "creators": null,
+            "channel": "DJShadex",
+            "channel_id": "UCrSqAh8oFYvD1I0gEWrClwA",
+            "uploader": "DJShadex",
+            "uploader_id": "@djshadex7984",
+            "ie_key": "Youtube",
+            "id": "yH0ZDELCHxQ",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=yH0ZDELCHxQ",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Bowser's Castle",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/RUrPYLzQYBk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBUGrMG_oEuRbz9qJbX3__n6KPnkA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/RUrPYLzQYBk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBphixaRJvE_apZzjKDEo9lL4Mamg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/RUrPYLzQYBk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsjSkANYhmhHYS13Ic4ClRp3fbEg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/RUrPYLzQYBk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvvfOLiG9QvpRkl4b3PHr7vx-DiQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 442,
+            "view_count": 725,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCvlErsSJjsLdCzULivPeApw",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Crowd Controlol - Topic",
+            "channel_id": "UCvlErsSJjsLdCzULivPeApw",
+            "uploader": "Crowd Controlol - Topic",
+            "ie_key": "Youtube",
+            "id": "RUrPYLzQYBk",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=RUrPYLzQYBk",
+            "__x_forwarded_for_ip": null
+        }
+    ],
+    "extractor_key": "YoutubeTab",
+    "extractor": "youtube:tab",
+    "webpage_url": "https://www.youtube.com/playlist?list=PLfTI11NRdIKE",
+    "original_url": "https://www.youtube.com/playlist?list=PLfTI11NRdIKE",
+    "webpage_url_basename": "playlist",
+    "webpage_url_domain": "youtube.com",
+    "release_year": null,
+    "epoch": 1789655106
 }

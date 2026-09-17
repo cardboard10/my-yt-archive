@@ -1,25 +1,182 @@
 {
+    "id": "PLFkQCKlB9zac",
     "title": "party",
+    "availability": "public",
+    "channel_follower_count": null,
+    "description": "",
+    "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/vi/k85mRPqvMbE/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCmyG1Wgq_OCLzu3VV_kmRwFlWcEg",
-            "height": 270,
-            "width": 480
+            "url": "https://i.ytimg.com/vi/k85mRPqvMbE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAVSTVv-LtUtmnZXxYj4-vLM79NJA",
+            "height": 94,
+            "width": 168,
+            "id": "0",
+            "resolution": "168x94"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/k85mRPqvMbE/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCHIWTNUuqqkBTKvunv6632enkf9g",
+            "height": 110,
+            "width": 196,
+            "id": "1",
+            "resolution": "196x110"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/k85mRPqvMbE/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBwE5Dj2ADgKZH-syvs0RfZZZjxVg",
+            "height": 138,
+            "width": 246,
+            "id": "2",
+            "resolution": "246x138"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/k85mRPqvMbE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC6gNXhV5_2mfkw4aVp4HZ2JUZfCg",
+            "height": 188,
+            "width": 336,
+            "id": "3",
+            "resolution": "336x188"
         }
     ],
-    "duration": null,
-    "view_count": null,
-    "timestamp": null,
-    "live_status": null,
-    "availability": null,
-    "channel_url": null,
-    "uploader_url": null,
-    "creators": null,
-    "channel": "View full playlist",
-    "uploader": "View full playlist",
-    "ie_key": "YoutubeTab",
-    "id": "PLFkQCKlB9zac",
-    "_type": "url",
-    "url": "https://www.youtube.com/playlist?list=PLFkQCKlB9zac",
-    "__x_forwarded_for_ip": null
+    "modified_date": "20260829",
+    "view_count": 2,
+    "playlist_count": 3,
+    "channel": "Landon Davis",
+    "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_id": "@LandonDavis-v7p",
+    "uploader": "Landon Davis",
+    "channel_url": "https://www.youtube.com/channel/UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_url": "https://www.youtube.com/@LandonDavis-v7p",
+    "_type": "playlist",
+    "entries": [
+        {
+            "title": "Crazy Frog - Axel F (Official Video)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/k85mRPqvMbE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCt4J31MV8_dmH1C53XPKr4CkX9Dw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/k85mRPqvMbE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-QIE1kD_Kaarz_SmNl0xHUb-Bmg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/k85mRPqvMbE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAN8O79Rgbpkh6td5Rx4-MAyhae6w",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/k85mRPqvMbE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJC2-Ri0Csz3g9bknmZcG28fTX_A",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 172,
+            "view_count": 6100000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UC4XR0EZ0oHwSV2XhhShzX5A",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Crazy Frog",
+            "channel_id": "UC4XR0EZ0oHwSV2XhhShzX5A",
+            "uploader": "Crazy Frog",
+            "ie_key": "Youtube",
+            "id": "k85mRPqvMbE",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=k85mRPqvMbE",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Minion Banana song ( Bassboosted)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/yH0ZDELCHxQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAkeUuzhr-qzRBbXc8CIgkJXpuTwA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/yH0ZDELCHxQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAye8jNcN5Hoc30L2tZNmimbtV-WQ",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/yH0ZDELCHxQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsFy7WshhxCxQfQAzs5KaVaKXkTA",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/yH0ZDELCHxQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKIPhtyEMnPNxYCkJiuC3hBiVwEQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 163,
+            "view_count": 8000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCrSqAh8oFYvD1I0gEWrClwA",
+            "uploader_url": "https://www.youtube.com/@djshadex7984",
+            "creators": null,
+            "channel": "DJShadex",
+            "channel_id": "UCrSqAh8oFYvD1I0gEWrClwA",
+            "uploader": "DJShadex",
+            "uploader_id": "@djshadex7984",
+            "ie_key": "Youtube",
+            "id": "yH0ZDELCHxQ",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=yH0ZDELCHxQ",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "a-ha - Take On Me (Official Video) [4K]",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/djV11Xbc914/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCUVjcnPQDSHGvb0uU0snHDJaVnYg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/djV11Xbc914/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCeYUx1qQoSsP2JR10MlXnxM00ROg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/djV11Xbc914/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCunZTaIANsuL4uFr7FsCbEpXH0Zw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/djV11Xbc914/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHcFeTO_DpOEfaPWSuJXuF-NWnVw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 244,
+            "view_count": 2400000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCeEi1My3KTXHT0SG1JkR9gA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "a-ha",
+            "channel_id": "UCeEi1My3KTXHT0SG1JkR9gA",
+            "uploader": "a-ha",
+            "ie_key": "Youtube",
+            "id": "djV11Xbc914",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=djV11Xbc914",
+            "__x_forwarded_for_ip": null
+        }
+    ],
+    "extractor_key": "YoutubeTab",
+    "extractor": "youtube:tab",
+    "webpage_url": "https://www.youtube.com/playlist?list=PLFkQCKlB9zac",
+    "original_url": "https://www.youtube.com/playlist?list=PLFkQCKlB9zac",
+    "webpage_url_basename": "playlist",
+    "webpage_url_domain": "youtube.com",
+    "release_year": null,
+    "epoch": 1789655108
 }

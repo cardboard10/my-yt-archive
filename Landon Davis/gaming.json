@@ -1,25 +1,140 @@
 {
+    "id": "PLECZiGq5NGZA",
     "title": "gaming",
+    "availability": "public",
+    "channel_follower_count": null,
+    "description": "",
+    "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/vi/7Ka1J3S_WuM/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAmFsy8TEewCefcwm46JcrSyWAhtg",
-            "height": 270,
-            "width": 480
+            "url": "https://i.ytimg.com/vi/7Ka1J3S_WuM/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLC30ie4PXW_QM59goXe5plB2wVNUQ",
+            "height": 94,
+            "width": 168,
+            "id": "0",
+            "resolution": "168x94"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/7Ka1J3S_WuM/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAyMcGk_Sza5bqJN1rApeVU0lxW_A",
+            "height": 110,
+            "width": 196,
+            "id": "1",
+            "resolution": "196x110"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/7Ka1J3S_WuM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCIG3_MAGtVmJY0_-x2QsJ7hIwgrg",
+            "height": 138,
+            "width": 246,
+            "id": "2",
+            "resolution": "246x138"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/7Ka1J3S_WuM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBFbiqCxXkAWE1r5QhTDtT0REJFHA",
+            "height": 188,
+            "width": 336,
+            "id": "3",
+            "resolution": "336x188"
         }
     ],
-    "duration": null,
-    "view_count": null,
-    "timestamp": null,
-    "live_status": null,
-    "availability": null,
-    "channel_url": null,
-    "uploader_url": null,
-    "creators": null,
-    "channel": "View full playlist",
-    "uploader": "View full playlist",
-    "ie_key": "YoutubeTab",
-    "id": "PLECZiGq5NGZA",
-    "_type": "url",
-    "url": "https://www.youtube.com/playlist?list=PLECZiGq5NGZA",
-    "__x_forwarded_for_ip": null
+    "modified_date": "20260825",
+    "view_count": 0,
+    "playlist_count": 2,
+    "channel": "Landon Davis",
+    "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_id": "@LandonDavis-v7p",
+    "uploader": "Landon Davis",
+    "channel_url": "https://www.youtube.com/channel/UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_url": "https://www.youtube.com/@LandonDavis-v7p",
+    "_type": "playlist",
+    "entries": [
+        {
+            "title": "Boat to You",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/7Ka1J3S_WuM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCjx2jzZqkp8YgFfM-kShFDWuaQHw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/7Ka1J3S_WuM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBsbjo4YLSydbtaoDQAPskkFsllNg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/7Ka1J3S_WuM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMDsTlWb_P_aQVYeIqn9OVeOD4qg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/7Ka1J3S_WuM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZrs5lr7qh98ny5VKnl2uHRmDLRg",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 155,
+            "view_count": 40000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCS3hH_MXhbUPnikhqPKyvbA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Indawgnito - Topic",
+            "channel_id": "UCS3hH_MXhbUPnikhqPKyvbA",
+            "uploader": "Indawgnito - Topic",
+            "ie_key": "Youtube",
+            "id": "7Ka1J3S_WuM",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=7Ka1J3S_WuM",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "I Placed A Bed",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/Cm7RlU_nNVw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDu6v54bDH5JxrBqqdsJxLLMeKLHQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Cm7RlU_nNVw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCxBFr1n1WKbC3W8XATWiCaVl02TA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Cm7RlU_nNVw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAdnD_2s8YbtU87aDzAvvcWG4n3jg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Cm7RlU_nNVw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsBYU55IsqCponlndrp1ejiCEsSQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 127,
+            "view_count": 379000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCS3hH_MXhbUPnikhqPKyvbA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Indawgnito - Topic",
+            "channel_id": "UCS3hH_MXhbUPnikhqPKyvbA",
+            "uploader": "Indawgnito - Topic",
+            "ie_key": "Youtube",
+            "id": "Cm7RlU_nNVw",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=Cm7RlU_nNVw",
+            "__x_forwarded_for_ip": null
+        }
+    ],
+    "extractor_key": "YoutubeTab",
+    "extractor": "youtube:tab",
+    "webpage_url": "https://www.youtube.com/playlist?list=PLECZiGq5NGZA",
+    "original_url": "https://www.youtube.com/playlist?list=PLECZiGq5NGZA",
+    "webpage_url_basename": "playlist",
+    "webpage_url_domain": "youtube.com",
+    "release_year": null,
+    "epoch": 1789655109
 }

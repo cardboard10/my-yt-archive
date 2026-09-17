@@ -1,25 +1,181 @@
 {
+    "id": "PLUnFRgQfFq_0",
     "title": "country from the suburbs",
+    "availability": "public",
+    "channel_follower_count": null,
+    "description": "i live in the suburbs but kinda want to live in the country",
+    "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/vi/DumlIIHSrsQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCu-x0JAyH6CafHZ-eV3pnCwK0pOg",
-            "height": 270,
-            "width": 480
+            "url": "https://i.ytimg.com/vi/DumlIIHSrsQ/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDWm7rqIK1zL3Cmo-pCWFR5iF1ksg",
+            "height": 94,
+            "width": 168,
+            "id": "0",
+            "resolution": "168x94"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/DumlIIHSrsQ/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAENvjVfVaIb74hQtroA0bPSiQ-BA",
+            "height": 110,
+            "width": 196,
+            "id": "1",
+            "resolution": "196x110"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/DumlIIHSrsQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDLpVlPnKxhVCX8cZOiPjQcsSE80Q",
+            "height": 138,
+            "width": 246,
+            "id": "2",
+            "resolution": "246x138"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/DumlIIHSrsQ/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCu3fm07PAL-RVvadXgDZbSbFiilA",
+            "height": 188,
+            "width": 336,
+            "id": "3",
+            "resolution": "336x188"
         }
     ],
-    "duration": null,
-    "view_count": null,
-    "timestamp": null,
-    "live_status": null,
-    "availability": null,
-    "channel_url": null,
-    "uploader_url": null,
-    "creators": null,
-    "channel": "View full playlist",
-    "uploader": "View full playlist",
-    "ie_key": "YoutubeTab",
-    "id": "PLUnFRgQfFq_0",
-    "_type": "url",
-    "url": "https://www.youtube.com/playlist?list=PLUnFRgQfFq_0",
-    "__x_forwarded_for_ip": null
+    "modified_date": "20260825",
+    "view_count": 4,
+    "playlist_count": 3,
+    "channel": "Landon Davis",
+    "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_id": "@LandonDavis-v7p",
+    "uploader": "Landon Davis",
+    "channel_url": "https://www.youtube.com/channel/UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_url": "https://www.youtube.com/@LandonDavis-v7p",
+    "_type": "playlist",
+    "entries": [
+        {
+            "title": "Casting Crowns - American Dream (Live)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/DumlIIHSrsQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0V8L5FQzJ8mPTI-BEmhXToa8mag",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/DumlIIHSrsQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD3MWv7iWeqCRw5qyZ0FYDXtEpnxg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/DumlIIHSrsQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgiRocwX9cmc61v5VOV08wdCdtfw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/DumlIIHSrsQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqY0LFWJEyEvs5BmQejb2ht2R4mg",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 249,
+            "view_count": 3100000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCZzdWp_r4-_KSWcdSjuvjUA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Casting Crowns",
+            "channel_id": "UCZzdWp_r4-_KSWcdSjuvjUA",
+            "uploader": "Casting Crowns",
+            "ie_key": "Youtube",
+            "id": "DumlIIHSrsQ",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=DumlIIHSrsQ",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Jordan Davis - Buy Dirt ft. Luke Bryan (Official Music Video)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/AKec3LTILRU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6j0H6z_dLmOe0AH3_jfgls-sqig",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/AKec3LTILRU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBJjPwjytlx19ZiNG4V4jZN_p05Jg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/AKec3LTILRU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRhx9QVxYZj7dfGFVDRHTzodS5Aw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/AKec3LTILRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2S7Y1HAy6Y2Bbz-LRVErZ6II3hA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 224,
+            "view_count": 74000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCLEhUvVUBhH8Q9Mx6Bz3BQA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Jordan Davis",
+            "channel_id": "UCLEhUvVUBhH8Q9Mx6Bz3BQA",
+            "uploader": "Jordan Davis",
+            "ie_key": "Youtube",
+            "id": "AKec3LTILRU",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=AKec3LTILRU",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Where The Green Grass Grows",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/hU0nP9dcI_w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB26Z9bJvNrRrykyfa98Hj9yyM2cg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/hU0nP9dcI_w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBvHi7LevU1vPk3cMSHxssgmupxuA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/hU0nP9dcI_w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDioAd5PpJ1r8MhnU0lQY10rdAu7Q",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/hU0nP9dcI_w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVrAAYzUynQe0NBBQdVlRUdQVTUg",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 202,
+            "view_count": 48000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UC2mK990tp7umnN6Y-DEGpDg",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Tim McGraw",
+            "channel_id": "UC2mK990tp7umnN6Y-DEGpDg",
+            "uploader": "Tim McGraw",
+            "ie_key": "Youtube",
+            "id": "hU0nP9dcI_w",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=hU0nP9dcI_w",
+            "__x_forwarded_for_ip": null
+        }
+    ],
+    "extractor_key": "YoutubeTab",
+    "extractor": "youtube:tab",
+    "webpage_url": "https://www.youtube.com/playlist?list=PLUnFRgQfFq_0",
+    "original_url": "https://www.youtube.com/playlist?list=PLUnFRgQfFq_0",
+    "webpage_url_basename": "playlist",
+    "webpage_url_domain": "youtube.com",
+    "release_year": null,
+    "epoch": 1789655111
 }

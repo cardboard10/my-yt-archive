@@ -1,25 +1,387 @@
 {
+    "id": "PLVBFVjNy9AU4",
     "title": "me",
+    "availability": "public",
+    "channel_follower_count": null,
+    "description": "",
+    "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/vi/uRyeRezQBm0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBhSsPP1Y3sCevM35aXG7_iD4f0oQ",
-            "height": 270,
-            "width": 480
+            "url": "https://i.ytimg.com/vi/uRyeRezQBm0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCfcxjA6BB7pYIZHjp66MDE5bD-WQ",
+            "height": 94,
+            "width": 168,
+            "id": "0",
+            "resolution": "168x94"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/uRyeRezQBm0/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD7d5_PXectbCI8c4y0-i15Pk2LGg",
+            "height": 110,
+            "width": 196,
+            "id": "1",
+            "resolution": "196x110"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/uRyeRezQBm0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB6RiVfmhfHEzEobRD3lXLvWLY49A",
+            "height": 138,
+            "width": 246,
+            "id": "2",
+            "resolution": "246x138"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/uRyeRezQBm0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDDV4tL4I2J_hweCLCiXs9FC4oUBA",
+            "height": 188,
+            "width": 336,
+            "id": "3",
+            "resolution": "336x188"
         }
     ],
-    "duration": null,
-    "view_count": null,
-    "timestamp": null,
-    "live_status": null,
-    "availability": null,
-    "channel_url": null,
-    "uploader_url": null,
-    "creators": null,
-    "channel": "View full playlist",
-    "uploader": "View full playlist",
-    "ie_key": "YoutubeTab",
-    "id": "PLVBFVjNy9AU4",
-    "_type": "url",
-    "url": "https://www.youtube.com/playlist?list=PLVBFVjNy9AU4",
-    "__x_forwarded_for_ip": null
+    "modified_date": "20260916",
+    "view_count": 0,
+    "playlist_count": 8,
+    "channel": "Landon Davis",
+    "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_id": "@LandonDavis-v7p",
+    "uploader": "Landon Davis",
+    "channel_url": "https://www.youtube.com/channel/UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_url": "https://www.youtube.com/@LandonDavis-v7p",
+    "_type": "playlist",
+    "entries": [
+        {
+            "title": "Alec Benjamin - Cause it Hurts (OLD DEMO)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/uRyeRezQBm0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDZH74_7WAibJVrYg-X6oHAhR97Gw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/uRyeRezQBm0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAE1CP3KtWKYM49zMrrZ_PwJUMMkg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/uRyeRezQBm0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVzNpESqQb5EpLP-55fVGy6ppCaw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/uRyeRezQBm0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATI77lhuu1I676l2PFgbCkbeCoKw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 166,
+            "view_count": 1400000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCtWBCzqucZXq0M8jsqunM0g",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Alec Benjamin",
+            "channel_id": "UCtWBCzqucZXq0M8jsqunM0g",
+            "uploader": "Alec Benjamin",
+            "ie_key": "Youtube",
+            "id": "uRyeRezQBm0",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=uRyeRezQBm0",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "DAVID | Tapestry | Official Lyric Video | Miri Mesika & Brandon Engman",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/zo4rLZyflek/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD5bWlboQxX918BKVm9QmGpD6UEFg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/zo4rLZyflek/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCEbOdJp3t_Va4oaTrUQGVSVHgngA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/zo4rLZyflek/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWA3mBWbHpOtsx_Xuhw4Fhwrzxsg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/zo4rLZyflek/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzYiH8Orc21DattDH08NiiOo8dgg",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 233,
+            "view_count": 232000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCB5_stIeRad4LQtaKHXkbvQ",
+            "uploader_url": "https://www.youtube.com/@thedavidmovie",
+            "creators": null,
+            "channel": "DAVID",
+            "channel_id": "UCB5_stIeRad4LQtaKHXkbvQ",
+            "uploader": "DAVID",
+            "uploader_id": "@thedavidmovie",
+            "ie_key": "Youtube",
+            "id": "zo4rLZyflek",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=zo4rLZyflek",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Jordan Davis - Buy Dirt ft. Luke Bryan (Official Music Video)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/AKec3LTILRU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6j0H6z_dLmOe0AH3_jfgls-sqig",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/AKec3LTILRU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBJjPwjytlx19ZiNG4V4jZN_p05Jg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/AKec3LTILRU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRhx9QVxYZj7dfGFVDRHTzodS5Aw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/AKec3LTILRU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2S7Y1HAy6Y2Bbz-LRVErZ6II3hA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 224,
+            "view_count": 74000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCLEhUvVUBhH8Q9Mx6Bz3BQA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Jordan Davis",
+            "channel_id": "UCLEhUvVUBhH8Q9Mx6Bz3BQA",
+            "uploader": "Jordan Davis",
+            "ie_key": "Youtube",
+            "id": "AKec3LTILRU",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=AKec3LTILRU",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "OKAY!",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/_bDm7_qjVbs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBULKHY4991Db6jeLT_0fZUL4i0GQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/_bDm7_qjVbs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjeLtPYHAJlG1JHDYAhelEDj2kzg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/_bDm7_qjVbs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSRqcCC7MfAvJInpED64Nl4LtFvw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/_bDm7_qjVbs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcU6E2TnM0o5WTbrD6apRSJiRAJQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 275,
+            "view_count": 6100000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCLtNLP4wxWCVUv8bSgIfNvw",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Forrest Frank",
+            "channel_id": "UCLtNLP4wxWCVUv8bSgIfNvw",
+            "uploader": "Forrest Frank",
+            "ie_key": "Youtube",
+            "id": "_bDm7_qjVbs",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=_bDm7_qjVbs",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Danny Gokey - My America (Official Music Video)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/0ei6R3ryIYQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCWXVcmpGkbW0fx8ubhY7cgEUZO7w",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/0ei6R3ryIYQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCVtb9fexWOjH2w13yIghN5emOwdA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/0ei6R3ryIYQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-GdzkRa0yonheTMQ0OnIt8Mkd_A",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/0ei6R3ryIYQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6DUQRIkPqi2ycXXCouK51LnX4dg",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 237,
+            "view_count": 1000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCAkA6cK8gceJ4JcpjlRZvkg",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Danny Gokey",
+            "channel_id": "UCAkA6cK8gceJ4JcpjlRZvkg",
+            "uploader": "Danny Gokey",
+            "ie_key": "Youtube",
+            "id": "0ei6R3ryIYQ",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=0ei6R3ryIYQ",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "I Don't Wanna Live Like This",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/bdIaWxcOrOc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAddZ2Ld2e8f3lIlJ6wxA4jjzBJRg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/bdIaWxcOrOc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD_h-w3FlpStpXWVfk5p-XsHbkDrA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/bdIaWxcOrOc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF1rtE50TBf3JDNcV00Va6NDjzfA",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/bdIaWxcOrOc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAV5O88ZVXhvLXG8m-6f1Trlc-6Rw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 178,
+            "view_count": 217000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCrTIMtWyYvYp4rKXTgU1lww",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Gable Price and Friends",
+            "channel_id": "UCrTIMtWyYvYp4rKXTgU1lww",
+            "uploader": "Gable Price and Friends",
+            "ie_key": "Youtube",
+            "id": "bdIaWxcOrOc",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=bdIaWxcOrOc",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Drew Baldridge - She's Somebody's Daughter (The Wedding Version) (Official Music Video)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/SV-Mb4p2ABM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAT6HShBo-uC-591Nm7Brp58P-Ngw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/SV-Mb4p2ABM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDHlKbotVV35w_rE0an8ODGf-9vBg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/SV-Mb4p2ABM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdxEgUcQhkj2_zFUk4e7gSX1Wf6Q",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/SV-Mb4p2ABM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAerwclKJTv3c4X3OyWd8_3i_N3Sw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 214,
+            "view_count": 78000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCekQGIFfI25pvZVZ-U0Gqag",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Drew Baldridge",
+            "channel_id": "UCekQGIFfI25pvZVZ-U0Gqag",
+            "uploader": "Drew Baldridge",
+            "ie_key": "Youtube",
+            "id": "SV-Mb4p2ABM",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=SV-Mb4p2ABM",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Josiah Queen - make heaven crowded (Official Lyric Video)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/DZMDuGKJM54/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBP78Y1drsZLMTCmGhFzzZVkS2mdA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/DZMDuGKJM54/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDYXB0p82AUwGQqebhIyFDTPV5v6w",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/DZMDuGKJM54/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9-aSXWjsBUv-n51bx1viFUJdpqQ",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/DZMDuGKJM54/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfNl_KijoBXIoU6OA2R-Fb2SFtPg",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 180,
+            "view_count": 2200000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCKPq4gV4VztdRwGOBRYkP6A",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Josiah Queen",
+            "channel_id": "UCKPq4gV4VztdRwGOBRYkP6A",
+            "uploader": "Josiah Queen",
+            "ie_key": "Youtube",
+            "id": "DZMDuGKJM54",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=DZMDuGKJM54",
+            "__x_forwarded_for_ip": null
+        }
+    ],
+    "extractor_key": "YoutubeTab",
+    "extractor": "youtube:tab",
+    "webpage_url": "https://www.youtube.com/playlist?list=PLVBFVjNy9AU4",
+    "original_url": "https://www.youtube.com/playlist?list=PLVBFVjNy9AU4",
+    "webpage_url_basename": "playlist",
+    "webpage_url_domain": "youtube.com",
+    "release_year": null,
+    "epoch": 1789655108
 }
