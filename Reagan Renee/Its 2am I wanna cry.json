@@ -7,21 +7,21 @@
     "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/pl_c/PLH-mR8DqAFkE/studio_square_thumbnail.jpg?sqp=CKDUr9UG-oaymwEICPABEPABSFqi85f_AwYIj_Lk0wY=&rs=AOn4CLA1FAqCSSVcsTqcOkut4YIPACN02A",
+            "url": "https://i.ytimg.com/pl_c/PLH-mR8DqAFkE/studio_square_thumbnail.jpg?sqp=CMz8tdUG-oaymwEICPABEPABSFqi85f_AwYIj_Lk0wY=&rs=AOn4CLBsp3v5bWorO1jl6HsCbE_QMoeeDw",
             "height": 240,
             "width": 240,
             "id": "0",
             "resolution": "240x240"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PLH-mR8DqAFkE/studio_square_thumbnail.jpg?sqp=CLi2r9UG-oaymwEICOADEOADSFqi85f_AwYIj_Lk0wY=&rs=AOn4CLB3dmtPOv9tbHNHJXHV5Wqjvn0zKw",
+            "url": "https://i.ytimg.com/pl_c/PLH-mR8DqAFkE/studio_square_thumbnail.jpg?sqp=CJyXttUG-oaymwEICOADEOADSFqi85f_AwYIj_Lk0wY=&rs=AOn4CLCAIPyUG0TG7sknfvhI00hi_u25XA",
             "height": 480,
             "width": 480,
             "id": "1",
             "resolution": "480x480"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PLH-mR8DqAFkE/studio_square_thumbnail.jpg?sqp=CLXEr9UG-oaymwEICNAFENAFSFqi85f_AwYIj_Lk0wY=&rs=AOn4CLDys5NtH5BPgKJZTfPxm471S5nUnQ",
+            "url": "https://i.ytimg.com/pl_c/PLH-mR8DqAFkE/studio_square_thumbnail.jpg?sqp=CLCbttUG-oaymwEICNAFENAFSFqi85f_AwYIj_Lk0wY=&rs=AOn4CLBZgMxPC36jZ7Y76TIgjAS6NkqDcg",
             "height": 720,
             "width": 720,
             "id": "2",
@@ -29,7 +29,7 @@
         }
     ],
     "modified_date": "20260916",
-    "view_count": 105,
+    "view_count": 124,
     "playlist_count": 29,
     "channel": "Reagan Renee",
     "channel_id": "UCii4x8YBOXK0fnsgdC3EgiQ",
@@ -1323,5 +1323,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789655101
+    "epoch": 1789762742
 }

@@ -35,9 +35,9 @@
             "resolution": "336x188"
         }
     ],
-    "modified_date": "20260916",
+    "modified_date": "20260918",
     "view_count": 9,
-    "playlist_count": 7,
+    "playlist_count": 11,
     "channel": "Reagan Renee",
     "channel_id": "UCii4x8YBOXK0fnsgdC3EgiQ",
     "uploader_id": "@ReaganRenee-c2f5x",
@@ -153,7 +153,7 @@
                 }
             ],
             "duration": 191,
-            "view_count": 233000,
+            "view_count": 237000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -194,7 +194,7 @@
                 }
             ],
             "duration": 173,
-            "view_count": 795000,
+            "view_count": 799000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -235,7 +235,7 @@
                 }
             ],
             "duration": 162,
-            "view_count": 57000,
+            "view_count": 59000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -276,7 +276,7 @@
                 }
             ],
             "duration": 133,
-            "view_count": 238000,
+            "view_count": 242000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -317,7 +317,7 @@
                 }
             ],
             "duration": 197,
-            "view_count": 15000,
+            "view_count": 25000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -332,6 +332,170 @@
             "_type": "url",
             "url": "https://www.youtube.com/watch?v=bw48Aydd1C4",
             "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Joseph O'Brien - Trust\u2026Fall! (Official Lyric Video)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/wzBFI3QoXaI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_O1L8pGnwo8umpFv59an8feIvDg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/wzBFI3QoXaI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCOHjeqCQCkRrB2-U8KImKorNJW1Q",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/wzBFI3QoXaI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQxmWlTyXfVSsLEVn8Cbtn55IerA",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/wzBFI3QoXaI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyy46i7CfssxhgocI12rkq59RN7g",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 180,
+            "view_count": 75000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCzlV2EqbIJJCgMbRGUU0sog",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Joseph O'Brien",
+            "channel_id": "UCzlV2EqbIJJCgMbRGUU0sog",
+            "uploader": "Joseph O'Brien",
+            "ie_key": "Youtube",
+            "id": "wzBFI3QoXaI",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=wzBFI3QoXaI",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Be My Escape",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/x9IMMk5cbtM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAOGg-Lz-iHXPSRjo4c9mNPejHJoQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/x9IMMk5cbtM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5M1qBnKaxE5KcUg2Ps-I8gzB6Vw",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/x9IMMk5cbtM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDq4qPC-LRLjjuYYSNMWPtp7jYtOw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/x9IMMk5cbtM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB21LUvPfDI2GtLuuN9O-9ANsQbdw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 241,
+            "view_count": 4000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UC8afzVs47azkKcp7QamyAcA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Relient K",
+            "channel_id": "UC8afzVs47azkKcp7QamyAcA",
+            "uploader": "Relient K",
+            "ie_key": "Youtube",
+            "id": "x9IMMk5cbtM",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=x9IMMk5cbtM",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Who I Am Hates Who I've Been",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/fmrc92SuE-w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0pvq_4zCk755UdxvLasMiwTcdPA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/fmrc92SuE-w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjQYNHiKCNiYcVDUjMv6B1cJP_3w",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/fmrc92SuE-w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVXcicaqJV1bXoIfvWMRxGAOzb4Q",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/fmrc92SuE-w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlVzFRtY7kOSJNkJ1zM-uIrtXnpg",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 233,
+            "view_count": 2400000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UC8afzVs47azkKcp7QamyAcA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Relient K",
+            "channel_id": "UC8afzVs47azkKcp7QamyAcA",
+            "uploader": "Relient K",
+            "ie_key": "Youtube",
+            "id": "fmrc92SuE-w",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=fmrc92SuE-w",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Which to Bury; Us or the Hatchet?",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/gokBTwuOHjY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBJcshnJwXM0Tyfi2nd8qff3gjL_w",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/gokBTwuOHjY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDDn2GuZZG4mnG-sc3jUsGIWoC7wA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/gokBTwuOHjY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAm0Ar4uVm9juJClgb-lFKb2e2wMQ",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/gokBTwuOHjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw7yiGBbJ4Bdg_WTqFmjP_0-3wcQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 252,
+            "view_count": 411000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UC8afzVs47azkKcp7QamyAcA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Relient K",
+            "channel_id": "UC8afzVs47azkKcp7QamyAcA",
+            "uploader": "Relient K",
+            "ie_key": "Youtube",
+            "id": "gokBTwuOHjY",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=gokBTwuOHjY",
+            "__x_forwarded_for_ip": null
         }
     ],
     "extractor_key": "YoutubeTab",
@@ -341,5 +505,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789655097
+    "epoch": 1789762735
 }

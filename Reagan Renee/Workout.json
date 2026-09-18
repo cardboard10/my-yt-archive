@@ -7,21 +7,21 @@
     "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/pl_c/PLRYTiepE4Cuc/studio_square_thumbnail.jpg?sqp=CM3Or9UG-oaymwEICPABEPABSFqi85f_AwYIxefI1AY=&rs=AOn4CLCEU-Cs9TEqJ-l3W7RCaeyxed3YYw",
+            "url": "https://i.ytimg.com/pl_c/PLRYTiepE4Cuc/studio_square_thumbnail.jpg?sqp=CKGCttUG-oaymwEICPABEPABSFqi85f_AwYIxefI1AY=&rs=AOn4CLDVQXpuaZUgFZ-rT8pt8MZG0BqBXg",
             "height": 240,
             "width": 240,
             "id": "0",
             "resolution": "240x240"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PLRYTiepE4Cuc/studio_square_thumbnail.jpg?sqp=CIDGr9UG-oaymwEICOADEOADSFqi85f_AwYIxefI1AY=&rs=AOn4CLALKPdHuaLzzqnhtJWndHGvA6-dGA",
+            "url": "https://i.ytimg.com/pl_c/PLRYTiepE4Cuc/studio_square_thumbnail.jpg?sqp=COWmttUG-oaymwEICOADEOADSFqi85f_AwYIxefI1AY=&rs=AOn4CLB2s0A251Z4sb1ffaeEfZ8TiQ7EQQ",
             "height": 480,
             "width": 480,
             "id": "1",
             "resolution": "480x480"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PLRYTiepE4Cuc/studio_square_thumbnail.jpg?sqp=CITPr9UG-oaymwEICNAFENAFSFqi85f_AwYIxefI1AY=&rs=AOn4CLCGcTU2tWYZ6amerdZw-A6-5I3eMg",
+            "url": "https://i.ytimg.com/pl_c/PLRYTiepE4Cuc/studio_square_thumbnail.jpg?sqp=CIjytdUG-oaymwEICNAFENAFSFqi85f_AwYIxefI1AY=&rs=AOn4CLBd2aJA_ZzxCWRnoRL5RB6ZxWTwug",
             "height": 720,
             "width": 720,
             "id": "2",
@@ -29,7 +29,7 @@
         }
     ],
     "modified_date": "20260905",
-    "view_count": 41,
+    "view_count": 46,
     "playlist_count": 10,
     "channel": "Reagan Renee",
     "channel_id": "UCii4x8YBOXK0fnsgdC3EgiQ",
@@ -105,7 +105,7 @@
                 }
             ],
             "duration": 205,
-            "view_count": 784000000,
+            "view_count": 785000000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -433,7 +433,7 @@
                 }
             ],
             "duration": 258,
-            "view_count": 544000000,
+            "view_count": 545000000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -457,5 +457,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789655103
+    "epoch": 1789762743
 }

@@ -7,30 +7,30 @@
     "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/pl_c/PLXD3iBx4KJRI/studio_square_thumbnail.jpg?sqp=CMjGr9UG-oaymwEICPABEPABSFqi85f_AwYI2e791AY=&rs=AOn4CLAaZ3JNdagVkl6XgYRJxv0ZE3E09A",
+            "url": "https://i.ytimg.com/pl_c/PLXD3iBx4KJRI/studio_square_thumbnail.jpg?sqp=CMf6tdUG-oaymwEICPABEPABSFqi85f_AwYI2e791AY=&rs=AOn4CLCIT_vhM9rZygJMJf-V6kybCH4jtA",
             "height": 240,
             "width": 240,
             "id": "0",
             "resolution": "240x240"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PLXD3iBx4KJRI/studio_square_thumbnail.jpg?sqp=CIC5r9UG-oaymwEICOADEOADSFqi85f_AwYI2e791AY=&rs=AOn4CLAgNDlQ7tbCR_s2lGeNvQ07wzKIDw",
+            "url": "https://i.ytimg.com/pl_c/PLXD3iBx4KJRI/studio_square_thumbnail.jpg?sqp=CPj5tdUG-oaymwEICOADEOADSFqi85f_AwYI2e791AY=&rs=AOn4CLD082mCa6iIAZHSJgzu9M3uqZZutw",
             "height": 480,
             "width": 480,
             "id": "1",
             "resolution": "480x480"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PLXD3iBx4KJRI/studio_square_thumbnail.jpg?sqp=CILEr9UG-oaymwEICNAFENAFSFqi85f_AwYI2e791AY=&rs=AOn4CLDtP5m7sLSs5-UllXoAOeCE2Pgndw",
+            "url": "https://i.ytimg.com/pl_c/PLXD3iBx4KJRI/studio_square_thumbnail.jpg?sqp=CPT7tdUG-oaymwEICNAFENAFSFqi85f_AwYI2e791AY=&rs=AOn4CLCIoC22W4AUzVLcpPfpQZKz6cffXw",
             "height": 720,
             "width": 720,
             "id": "2",
             "resolution": "720x720"
         }
     ],
-    "modified_date": "20260916",
+    "modified_date": "20260917",
     "view_count": 206,
-    "playlist_count": 35,
+    "playlist_count": 34,
     "channel": "Reagan Renee",
     "channel_id": "UCii4x8YBOXK0fnsgdC3EgiQ",
     "uploader_id": "@ReaganRenee-c2f5x",
@@ -1054,50 +1054,6 @@
         {
             "_type": "url",
             "ie_key": "Youtube",
-            "id": "Wmuu16OBzAU",
-            "url": "https://www.youtube.com/watch?v=Wmuu16OBzAU",
-            "title": "Titanium (Cover)",
-            "description": null,
-            "duration": 141,
-            "channel_id": "UCOnuUddDN2ssa2q__2OW6qg",
-            "channel": "Alexander Stewart",
-            "channel_url": "https://www.youtube.com/channel/UCOnuUddDN2ssa2q__2OW6qg",
-            "uploader": "Alexander Stewart",
-            "uploader_id": null,
-            "uploader_url": null,
-            "thumbnails": [
-                {
-                    "url": "https://i.ytimg.com/vi/Wmuu16OBzAU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCesNq-jcaaNMaSAxAYUnkrb8qaWg",
-                    "height": 94,
-                    "width": 168
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/Wmuu16OBzAU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFY8rMkaosREEg8681477ysD5fNQ",
-                    "height": 110,
-                    "width": 196
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/Wmuu16OBzAU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAH1DtDHIROLp-SV39BUyYAF520wg",
-                    "height": 138,
-                    "width": 246
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/Wmuu16OBzAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq4ZGcsa3vn64mbo5PgT333Tor7g",
-                    "height": 188,
-                    "width": 336
-                }
-            ],
-            "timestamp": null,
-            "release_timestamp": null,
-            "availability": null,
-            "view_count": null,
-            "live_status": null,
-            "channel_is_verified": null,
-            "__x_forwarded_for_ip": null
-        },
-        {
-            "_type": "url",
-            "ie_key": "Youtube",
             "id": "hjmKUPtSSGY",
             "url": "https://www.youtube.com/watch?v=hjmKUPtSSGY",
             "title": "Galaxies",
@@ -1303,50 +1259,6 @@
                 },
                 {
                     "url": "https://i.ytimg.com/vi/6bKu0kPdW-o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp5nMPbHwbbIUlMm7rnlTjFVp7dA",
-                    "height": 188,
-                    "width": 336
-                }
-            ],
-            "timestamp": null,
-            "release_timestamp": null,
-            "availability": null,
-            "view_count": null,
-            "live_status": null,
-            "channel_is_verified": null,
-            "__x_forwarded_for_ip": null
-        },
-        {
-            "_type": "url",
-            "ie_key": "Youtube",
-            "id": "pAb8LalpFIA",
-            "url": "https://www.youtube.com/watch?v=pAb8LalpFIA",
-            "title": "Against the Voices",
-            "description": null,
-            "duration": 258,
-            "channel_id": "UCi9lvMuNrySHqoFfiOLcudQ",
-            "channel": "Switchfoot",
-            "channel_url": "https://www.youtube.com/channel/UCi9lvMuNrySHqoFfiOLcudQ",
-            "uploader": "Switchfoot",
-            "uploader_id": null,
-            "uploader_url": null,
-            "thumbnails": [
-                {
-                    "url": "https://i.ytimg.com/vi/pAb8LalpFIA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjKCe4X6MYdL39qwXZjVFlJygXFA",
-                    "height": 94,
-                    "width": 168
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/pAb8LalpFIA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAp_cMLEPf1UJTRut6e7kNz5jrkNQ",
-                    "height": 110,
-                    "width": 196
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/pAb8LalpFIA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4GgNH6MCv2x2PXVvLaj9JoBsg-Q",
-                    "height": 138,
-                    "width": 246
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/pAb8LalpFIA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaFwsra0Ppk_mj2OYn_mPQS5Dp0A",
                     "height": 188,
                     "width": 336
                 }
@@ -1578,6 +1490,50 @@
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "RU6VRQzPWtQ",
+            "url": "https://www.youtube.com/watch?v=RU6VRQzPWtQ",
+            "title": "I\u2019m Not Ashamed",
+            "description": null,
+            "duration": 206,
+            "channel_id": "UCwlV5-wNmOMihX1Kc7EsWrA",
+            "channel": "Jeremy Camp",
+            "channel_url": "https://www.youtube.com/channel/UCwlV5-wNmOMihX1Kc7EsWrA",
+            "uploader": "Jeremy Camp",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/RU6VRQzPWtQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCu7lknxy4LTpS4S-0F-UuFAMfpYA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/RU6VRQzPWtQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAATAiVto1c5aqhhmm5y0r02xKFmg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/RU6VRQzPWtQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd3oIz0n9Y90oQ0_RuDIjPy7gQwA",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/RU6VRQzPWtQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDycLtHY1mJCl5TbicmOPm-waM6ww",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": null,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
         }
     ],
     "extractor_key": "YoutubeTab",
@@ -1587,5 +1543,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789655103
+    "epoch": 1789762742
 }

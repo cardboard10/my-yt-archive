@@ -71,7 +71,7 @@
                 }
             ],
             "duration": 186,
-            "view_count": 57,
+            "view_count": 63,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -236,7 +236,7 @@
                 }
             ],
             "duration": 442,
-            "view_count": 725,
+            "view_count": 729,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -260,5 +260,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789655106
+    "epoch": 1789762746
 }

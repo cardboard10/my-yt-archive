@@ -35,9 +35,9 @@
             "resolution": "336x188"
         }
     ],
-    "modified_date": "20260916",
-    "view_count": 0,
-    "playlist_count": 8,
+    "modified_date": "20260918",
+    "view_count": 4,
+    "playlist_count": 11,
     "channel": "Landon Davis",
     "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
     "uploader_id": "@LandonDavis-v7p",
@@ -112,7 +112,7 @@
                 }
             ],
             "duration": 233,
-            "view_count": 232000,
+            "view_count": 233000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -374,6 +374,129 @@
             "_type": "url",
             "url": "https://www.youtube.com/watch?v=DZMDuGKJM54",
             "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "TobyMac - Til The Day I Die (Lyric Video) ft. NF",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/LWLZ_MrPplk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDmDzDAWGHGehvMlNkjfWi2BsSLzA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/LWLZ_MrPplk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCeK51IM1gcWG8Zu0a2dPLJ29mryQ",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/LWLZ_MrPplk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfuPDhALKUDTISPio7cYZTMnSt2g",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/LWLZ_MrPplk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDF1juZ2JT6f2a4gHGkid4HnbOKdQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 228,
+            "view_count": 25000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCl_X3EjSITWnwFVsq0hUvew",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "TobyMac",
+            "channel_id": "UCl_X3EjSITWnwFVsq0hUvew",
+            "uploader": "TobyMac",
+            "ie_key": "Youtube",
+            "id": "LWLZ_MrPplk",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=LWLZ_MrPplk",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "\u2014 [DASH]",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/PROcuumC5pc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCpuCHMacm02GOtW-wZU-JnzMQIZg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/PROcuumC5pc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD9jBx8mkQ1DYJgql0JzEeoS6lbmg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/PROcuumC5pc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADhGSJI0Ky8sjpOEp1VKY0Yefo_g",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/PROcuumC5pc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4Zh_Lre-gmexCO-20CoPstgU0LA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 179,
+            "view_count": 1200000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCvOftPsbp9Cj9cTSPfDMK7w",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Crowder",
+            "channel_id": "UCvOftPsbp9Cj9cTSPfDMK7w",
+            "uploader": "Crowder",
+            "ie_key": "Youtube",
+            "id": "PROcuumC5pc",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=PROcuumC5pc",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "GOOD DAY",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/Mxg3r2xJ9NM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD32Q_OwIcyy-E-sznTXl-e_pAneQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Mxg3r2xJ9NM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAp9NOgaL4L3mKQi9JkOEo-tn4mtg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Mxg3r2xJ9NM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHTOW6Mp3wFzxvk4v-mqyXV6MZMA",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Mxg3r2xJ9NM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe4KNiXFof-pOS45rAdWDRAVSe6A",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 171,
+            "view_count": 10000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCLtNLP4wxWCVUv8bSgIfNvw",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Forrest Frank",
+            "channel_id": "UCLtNLP4wxWCVUv8bSgIfNvw",
+            "uploader": "Forrest Frank",
+            "ie_key": "Youtube",
+            "id": "Mxg3r2xJ9NM",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=Mxg3r2xJ9NM",
+            "__x_forwarded_for_ip": null
         }
     ],
     "extractor_key": "YoutubeTab",
@@ -383,5 +506,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789655108
+    "epoch": 1789762746
 }
