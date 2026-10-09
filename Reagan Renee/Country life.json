@@ -7,21 +7,21 @@
     "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYWLYuJAxZaxvbw3DqFsEcaR/studio_square_thumbnail.jpg?sqp=CMSvpNYG-oaymwEICPABEPABSFqi85f_AwYIiJe90AY=&rs=AOn4CLA7_TOzD4AWyi1MIhreSfUU0ZqiAA",
+            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYWLYuJAxZaxvbw3DqFsEcaR/studio_square_thumbnail.jpg?sqp=CIitpNYG-oaymwEICPABEPABSFqi85f_AwYIiJe90AY=&rs=AOn4CLBOk64AI40SFz9yWz6Nh2m6JyS2ew",
             "height": 240,
             "width": 240,
             "id": "0",
             "resolution": "240x240"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYWLYuJAxZaxvbw3DqFsEcaR/studio_square_thumbnail.jpg?sqp=COizpNYG-oaymwEICOADEOADSFqi85f_AwYIiJe90AY=&rs=AOn4CLBcOYVlrkhrUyfU6ZImEZFbE0r1AQ",
+            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYWLYuJAxZaxvbw3DqFsEcaR/studio_square_thumbnail.jpg?sqp=CIjPpNYG-oaymwEICOADEOADSFqi85f_AwYIiJe90AY=&rs=AOn4CLCXKb83fVMnR9mRnGAaf3tXgxtxCw",
             "height": 480,
             "width": 480,
             "id": "1",
             "resolution": "480x480"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYWLYuJAxZaxvbw3DqFsEcaR/studio_square_thumbnail.jpg?sqp=CKKbpNYG-oaymwEICNAFENAFSFqi85f_AwYIiJe90AY=&rs=AOn4CLCx_3daBiLJKmz44BDbLoNzKR5Tkw",
+            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYWLYuJAxZaxvbw3DqFsEcaR/studio_square_thumbnail.jpg?sqp=CPiXpNYG-oaymwEICNAFENAFSFqi85f_AwYIiJe90AY=&rs=AOn4CLCgk2X-DAYntclV-SuD-IH2eXqInA",
             "height": 720,
             "width": 720,
             "id": "2",
@@ -7571,5 +7571,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1791567364
+    "epoch": 1791569495
 }

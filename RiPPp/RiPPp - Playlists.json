@@ -87,17 +87,17 @@
             "title": "Maybe Tomorrow",
             "thumbnails": [
                 {
-                    "url": "https://i.ytimg.com/pl_c/PLFFVvG0mnHmM/studio_square_thumbnail.jpg?sqp=CMqipNYG-oaymwEICPABEPABSFqi85f_AwYI65zX1QY=&rs=AOn4CLDH6QUzBWJ3i1DggQBXJRo8IhFu3A",
+                    "url": "https://i.ytimg.com/pl_c/PLFFVvG0mnHmM/studio_square_thumbnail.jpg?sqp=CNvLpNYG-oaymwEICPABEPABSFqi85f_AwYI65zX1QY=&rs=AOn4CLDgQKOeIzfC9kep8CsCEp182KgB2g",
                     "height": 240,
                     "width": 240
                 },
                 {
-                    "url": "https://i.ytimg.com/pl_c/PLFFVvG0mnHmM/studio_square_thumbnail.jpg?sqp=CMOlpNYG-oaymwEICOADEOADSFqi85f_AwYI65zX1QY=&rs=AOn4CLBOAIs3m-6J9FKpJmFlRRiwsq4mlQ",
+                    "url": "https://i.ytimg.com/pl_c/PLFFVvG0mnHmM/studio_square_thumbnail.jpg?sqp=CPiupNYG-oaymwEICOADEOADSFqi85f_AwYI65zX1QY=&rs=AOn4CLAa-eDPkDJT6uminyLoxAS4tmLDSg",
                     "height": 480,
                     "width": 480
                 },
                 {
-                    "url": "https://i.ytimg.com/pl_c/PLFFVvG0mnHmM/studio_square_thumbnail.jpg?sqp=CJSQpNYG-oaymwEICNAFENAFSFqi85f_AwYI65zX1QY=&rs=AOn4CLDb2GO0sGbmaU7VabmfHo7FMdQYbQ",
+                    "url": "https://i.ytimg.com/pl_c/PLFFVvG0mnHmM/studio_square_thumbnail.jpg?sqp=CNbZpNYG-oaymwEICNAFENAFSFqi85f_AwYI65zX1QY=&rs=AOn4CLDqJ252g0EGlRbvG6yigUDsvfXF9Q",
                     "height": 720,
                     "width": 720
                 }
@@ -124,17 +124,17 @@
             "title": "\ud83c\udccf| Finally Happy",
             "thumbnails": [
                 {
-                    "url": "https://i.ytimg.com/pl_c/PLd3_4Z8rS414/studio_square_thumbnail.jpg?sqp=COyopNYG-oaymwEICPABEPABSFqi85f_AwYIod3G1QY=&rs=AOn4CLAMDKn8Zypjc-j3XKRsIgfAXftE9Q",
+                    "url": "https://i.ytimg.com/pl_c/PLd3_4Z8rS414/studio_square_thumbnail.jpg?sqp=CIDMpNYG-oaymwEICPABEPABSFqi85f_AwYIod3G1QY=&rs=AOn4CLBC3k7jhIXPJl3lxgSNPnInVLpZbA",
                     "height": 240,
                     "width": 240
                 },
                 {
-                    "url": "https://i.ytimg.com/pl_c/PLd3_4Z8rS414/studio_square_thumbnail.jpg?sqp=CJSSpNYG-oaymwEICOADEOADSFqi85f_AwYIod3G1QY=&rs=AOn4CLBiMKrhxr5k03A2NiULsUd86fR9TA",
+                    "url": "https://i.ytimg.com/pl_c/PLd3_4Z8rS414/studio_square_thumbnail.jpg?sqp=CLiepNYG-oaymwEICOADEOADSFqi85f_AwYIod3G1QY=&rs=AOn4CLDb8deys4uKAPtmPHZNXpk6BWYgzw",
                     "height": 480,
                     "width": 480
                 },
                 {
-                    "url": "https://i.ytimg.com/pl_c/PLd3_4Z8rS414/studio_square_thumbnail.jpg?sqp=CMiupNYG-oaymwEICNAFENAFSFqi85f_AwYIod3G1QY=&rs=AOn4CLA-rxizZgZ0gNcL4QRcXR1tClF9PA",
+                    "url": "https://i.ytimg.com/pl_c/PLd3_4Z8rS414/studio_square_thumbnail.jpg?sqp=CKC5pNYG-oaymwEICNAFENAFSFqi85f_AwYIod3G1QY=&rs=AOn4CLCfZ15c099C9-e4INHluD3D2PBAlA",
                     "height": 720,
                     "width": 720
                 }
@@ -165,5 +165,5 @@
     "webpage_url_basename": "playlists",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1791567378
+    "epoch": 1791569509
 }
