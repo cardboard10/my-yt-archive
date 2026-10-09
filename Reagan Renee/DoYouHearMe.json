@@ -7,30 +7,30 @@
     "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYVaOM6CL8bRGNKy_vKsk3Bf/studio_square_thumbnail.jpg?sqp=CIiLttUG-oaymwEICPABEPABSFqi85f_AwYIrODb0QY=&rs=AOn4CLAwdiNRzvCZq4vp8_KT4KPm722Smg",
+            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYVaOM6CL8bRGNKy_vKsk3Bf/studio_square_thumbnail.jpg?sqp=CKDFpNYG-oaymwEICPABEPABSFqi85f_AwYIrODb0QY=&rs=AOn4CLAgLnE5GgPXa3fX8m1XcaM6K-4z9g",
             "height": 240,
             "width": 240,
             "id": "0",
             "resolution": "240x240"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYVaOM6CL8bRGNKy_vKsk3Bf/studio_square_thumbnail.jpg?sqp=CPvntdUG-oaymwEICOADEOADSFqi85f_AwYIrODb0QY=&rs=AOn4CLDSLaLuREHtxqGrgc4pgTZHmoWdmQ",
+            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYVaOM6CL8bRGNKy_vKsk3Bf/studio_square_thumbnail.jpg?sqp=CO6VpNYG-oaymwEICOADEOADSFqi85f_AwYIrODb0QY=&rs=AOn4CLBBbBNyY2xDaB1ykQgAqPytNy6tXQ",
             "height": 480,
             "width": 480,
             "id": "1",
             "resolution": "480x480"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYVaOM6CL8bRGNKy_vKsk3Bf/studio_square_thumbnail.jpg?sqp=COKyttUG-oaymwEICNAFENAFSFqi85f_AwYIrODb0QY=&rs=AOn4CLBYNrCtU6ZWfrdhLTxmYaHPIl2kAg",
+            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYVaOM6CL8bRGNKy_vKsk3Bf/studio_square_thumbnail.jpg?sqp=CLO8pNYG-oaymwEICNAFENAFSFqi85f_AwYIrODb0QY=&rs=AOn4CLB2eRBUF-xSb4abXskxWRg4P5wKcw",
             "height": 720,
             "width": 720,
             "id": "2",
             "resolution": "720x720"
         }
     ],
-    "modified_date": "20260828",
-    "view_count": 132,
-    "playlist_count": 41,
+    "modified_date": "20261008",
+    "view_count": 133,
+    "playlist_count": 43,
     "channel": "Reagan Renee",
     "channel_id": "UCii4x8YBOXK0fnsgdC3EgiQ",
     "uploader_id": "@ReaganRenee-c2f5x",
@@ -1842,6 +1842,94 @@
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "B9VwA6jAaCc",
+            "url": "https://www.youtube.com/watch?v=B9VwA6jAaCc",
+            "title": "Your Story",
+            "description": null,
+            "duration": 195,
+            "channel_id": "UC0BOJJzQQO1cnRGyJblFeAg",
+            "channel": "Haddon",
+            "channel_url": "https://www.youtube.com/channel/UC0BOJJzQQO1cnRGyJblFeAg",
+            "uploader": "Haddon",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/B9VwA6jAaCc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBm9QA4ZBagSMCBqZDe00WSqbKswg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/B9VwA6jAaCc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAfe1X-p7B3CfNklN9ww9EHdRS-qQ",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/B9VwA6jAaCc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHkWBe3EFqAEL2hzCOV0yr8ueatQ",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/B9VwA6jAaCc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoAB9tTXxeVZPcz6yFsTwtbj8YUQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": null,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "wes7jVfM7C8",
+            "url": "https://www.youtube.com/watch?v=wes7jVfM7C8",
+            "title": "Max McNown - Freezing In November (Official Lyric Video)",
+            "description": null,
+            "duration": 153,
+            "channel_id": "UCrutg3fZvLPjQCKZjLeA8Ng",
+            "channel": "Max McNown",
+            "channel_url": "https://www.youtube.com/channel/UCrutg3fZvLPjQCKZjLeA8Ng",
+            "uploader": "Max McNown",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/wes7jVfM7C8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEggYihlMA8=&rs=AOn4CLCDfs68Dj5UQdY93O03qeoyIp-mGA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/wes7jVfM7C8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEggYihlMA8=&rs=AOn4CLA19RwO9UK9aejF8OJDooZc1cdD7w",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/wes7jVfM7C8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhIIGIoZTAP&rs=AOn4CLAempHuxxUiaovG-v_0vhmyKGIK7w",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/wes7jVfM7C8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhIIGIoZTAP&rs=AOn4CLDzQOdZmGN9ttJFBMQfSsIL_nwsaQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": null,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
         }
     ],
     "extractor_key": "YoutubeTab",
@@ -1851,5 +1939,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789762737
+    "epoch": 1791567362
 }

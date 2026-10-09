@@ -35,9 +35,9 @@
             "resolution": "336x188"
         }
     ],
-    "modified_date": "20260829",
-    "view_count": 2,
-    "playlist_count": 3,
+    "modified_date": "20260920",
+    "view_count": 8,
+    "playlist_count": 4,
     "channel": "Landon Davis",
     "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
     "uploader_id": "@LandonDavis-v7p",
@@ -71,7 +71,7 @@
                 }
             ],
             "duration": 172,
-            "view_count": 6100000000,
+            "view_count": 6200000000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -112,7 +112,7 @@
                 }
             ],
             "duration": 163,
-            "view_count": 8000000,
+            "view_count": 8700000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -154,7 +154,7 @@
                 }
             ],
             "duration": 244,
-            "view_count": 2400000000,
+            "view_count": 2500000000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -169,6 +169,48 @@
             "_type": "url",
             "url": "https://www.youtube.com/watch?v=djV11Xbc914",
             "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Bardic Inspiration Performance: \"Gelatinous Cube, Unsung Hero of the Dungeon\"",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/dsyPtg-lmjc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGH8gPCg1MA8=&rs=AOn4CLAPqtkED8v12gczFZ8roiS3ijLiAw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/dsyPtg-lmjc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGH8gPCg1MA8=&rs=AOn4CLDUiSZ1rGsAIAjbwmMY2sgHLM4uCg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/dsyPtg-lmjc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IDwoNTAP&rs=AOn4CLCrrhRDPUVRTFqd-LWcADjcpDX5Nw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/dsyPtg-lmjc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARh_IDwoNTAP&rs=AOn4CLBXJ8yZYSTqF4CiU1_lYIzlA6MI2A",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 277,
+            "view_count": 5700,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCVq-ke5EpO_2Yra6c2ua6bQ",
+            "uploader_url": "https://www.youtube.com/@CNEGames",
+            "creators": null,
+            "channel": "Codename Entertainment",
+            "channel_id": "UCVq-ke5EpO_2Yra6c2ua6bQ",
+            "uploader": "Codename Entertainment",
+            "uploader_id": "@CNEGames",
+            "ie_key": "Youtube",
+            "id": "dsyPtg-lmjc",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=dsyPtg-lmjc",
+            "__x_forwarded_for_ip": null
         }
     ],
     "extractor_key": "YoutubeTab",
@@ -178,5 +220,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789762747
+    "epoch": 1791567373
 }

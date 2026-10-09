@@ -36,7 +36,7 @@
         }
     ],
     "modified_date": "20260827",
-    "view_count": 51,
+    "view_count": 55,
     "playlist_count": 5,
     "channel": "Landon Davis",
     "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
@@ -71,7 +71,7 @@
                 }
             ],
             "duration": 186,
-            "view_count": 63,
+            "view_count": 84,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -153,7 +153,7 @@
                 }
             ],
             "duration": 637,
-            "view_count": 71000000,
+            "view_count": 72000000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -194,7 +194,7 @@
                 }
             ],
             "duration": 163,
-            "view_count": 8000000,
+            "view_count": 8700000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -236,7 +236,7 @@
                 }
             ],
             "duration": 442,
-            "view_count": 729,
+            "view_count": 752,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -260,5 +260,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789762746
+    "epoch": 1791567372
 }

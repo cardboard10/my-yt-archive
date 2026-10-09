@@ -7,30 +7,30 @@
     "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYUN_e4ymB66Oh0a1SEphNN6/studio_square_thumbnail.jpg?sqp=COOVttUG-oaymwEICPABEPABSFqi85f_AwYIzoCd1QY=&rs=AOn4CLDYFu0gagrvZRn6tmIx79wN_xqrDg",
+            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYUN_e4ymB66Oh0a1SEphNN6/studio_square_thumbnail.jpg?sqp=CMChpNYG-oaymwEICPABEPABSFqi85f_AwYIzoCd1QY=&rs=AOn4CLBL5rh2rbEM90FC4jMC6Ub3c7dGxg",
             "height": 240,
             "width": 240,
             "id": "0",
             "resolution": "240x240"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYUN_e4ymB66Oh0a1SEphNN6/studio_square_thumbnail.jpg?sqp=CKKTttUG-oaymwEICOADEOADSFqi85f_AwYIzoCd1QY=&rs=AOn4CLAieEVBEe_3up2yuuFAJW9iy4Ge1g",
+            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYUN_e4ymB66Oh0a1SEphNN6/studio_square_thumbnail.jpg?sqp=COqspNYG-oaymwEICOADEOADSFqi85f_AwYIzoCd1QY=&rs=AOn4CLDQBQOIOdopfZGCduu-8JXv5Ob0hA",
             "height": 480,
             "width": 480,
             "id": "1",
             "resolution": "480x480"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYUN_e4ymB66Oh0a1SEphNN6/studio_square_thumbnail.jpg?sqp=CM-tttUG-oaymwEICNAFENAFSFqi85f_AwYIzoCd1QY=&rs=AOn4CLBpntWyTKf64bPGzICrPyCYXhfG3A",
+            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYUN_e4ymB66Oh0a1SEphNN6/studio_square_thumbnail.jpg?sqp=COC3pNYG-oaymwEICNAFENAFSFqi85f_AwYIzoCd1QY=&rs=AOn4CLCPwH28cHuvJ3nLPOoESM4HWmdmLA",
             "height": 720,
             "width": 720,
             "id": "2",
             "resolution": "720x720"
         }
     ],
-    "modified_date": "20260915",
-    "view_count": 205,
-    "playlist_count": 38,
+    "modified_date": "20261008",
+    "view_count": 257,
+    "playlist_count": 36,
     "channel": "Reagan Renee",
     "channel_id": "UCii4x8YBOXK0fnsgdC3EgiQ",
     "uploader_id": "@ReaganRenee-c2f5x",
@@ -39,6 +39,50 @@
     "uploader_url": "https://www.youtube.com/@ReaganRenee-c2f5x",
     "_type": "playlist",
     "entries": [
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "Dpa5NlAAB4g",
+            "url": "https://www.youtube.com/watch?v=Dpa5NlAAB4g",
+            "title": "I Am Getting Well",
+            "description": null,
+            "duration": 166,
+            "channel_id": "UCecgDbZRJ8GdmVgNCjuJu5g",
+            "channel": "Dean Lewis",
+            "channel_url": "https://www.youtube.com/channel/UCecgDbZRJ8GdmVgNCjuJu5g",
+            "uploader": "Dean Lewis",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/Dpa5NlAAB4g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBea3xtYl_ikulEC7xwA1f7V0VLZQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Dpa5NlAAB4g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLArxVA9bjQmnzZfNU3iqniYHeALbA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Dpa5NlAAB4g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu0_bzZqyZlc8s6kgnrckTLOK_Kg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Dpa5NlAAB4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGLvmQfO6iATudIHY80bbWO6N8HA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": null,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
+        },
         {
             "_type": "url",
             "ie_key": "Youtube",
@@ -115,50 +159,6 @@
                 },
                 {
                     "url": "https://i.ytimg.com/vi/EDRhR7BujDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr0X3ZspqPGiLK5MWSTm92xkiijw",
-                    "height": 188,
-                    "width": 336
-                }
-            ],
-            "timestamp": null,
-            "release_timestamp": null,
-            "availability": null,
-            "view_count": null,
-            "live_status": null,
-            "channel_is_verified": null,
-            "__x_forwarded_for_ip": null
-        },
-        {
-            "_type": "url",
-            "ie_key": "Youtube",
-            "id": "Dpa5NlAAB4g",
-            "url": "https://www.youtube.com/watch?v=Dpa5NlAAB4g",
-            "title": "I Am Getting Well",
-            "description": null,
-            "duration": 166,
-            "channel_id": "UCecgDbZRJ8GdmVgNCjuJu5g",
-            "channel": "Dean Lewis",
-            "channel_url": "https://www.youtube.com/channel/UCecgDbZRJ8GdmVgNCjuJu5g",
-            "uploader": "Dean Lewis",
-            "uploader_id": null,
-            "uploader_url": null,
-            "thumbnails": [
-                {
-                    "url": "https://i.ytimg.com/vi/Dpa5NlAAB4g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBea3xtYl_ikulEC7xwA1f7V0VLZQ",
-                    "height": 94,
-                    "width": 168
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/Dpa5NlAAB4g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLArxVA9bjQmnzZfNU3iqniYHeALbA",
-                    "height": 110,
-                    "width": 196
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/Dpa5NlAAB4g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu0_bzZqyZlc8s6kgnrckTLOK_Kg",
-                    "height": 138,
-                    "width": 246
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/Dpa5NlAAB4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGLvmQfO6iATudIHY80bbWO6N8HA",
                     "height": 188,
                     "width": 336
                 }
@@ -379,50 +379,6 @@
                 },
                 {
                     "url": "https://i.ytimg.com/vi/3imnxCmR7bw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6xZBssfyH_nXI49kAuPxnsk7RYA",
-                    "height": 188,
-                    "width": 336
-                }
-            ],
-            "timestamp": null,
-            "release_timestamp": null,
-            "availability": null,
-            "view_count": null,
-            "live_status": null,
-            "channel_is_verified": null,
-            "__x_forwarded_for_ip": null
-        },
-        {
-            "_type": "url",
-            "ie_key": "Youtube",
-            "id": "tA2t1lFL3V8",
-            "url": "https://www.youtube.com/watch?v=tA2t1lFL3V8",
-            "title": "this is me trying",
-            "description": null,
-            "duration": 196,
-            "channel_id": "UCqECaJ8Gagnn7YCbPEzWH6g",
-            "channel": "Taylor Swift",
-            "channel_url": "https://www.youtube.com/channel/UCqECaJ8Gagnn7YCbPEzWH6g",
-            "uploader": "Taylor Swift",
-            "uploader_id": null,
-            "uploader_url": null,
-            "thumbnails": [
-                {
-                    "url": "https://i.ytimg.com/vi/tA2t1lFL3V8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLACGa_zoGo4PfeeAUNZbbYB5tWXQw",
-                    "height": 94,
-                    "width": 168
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/tA2t1lFL3V8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4x0POgnx2rrvzQt31I6sBojVbnA",
-                    "height": 110,
-                    "width": 196
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/tA2t1lFL3V8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFIZ2WRlmn_6WTsUz5mtwX7E62Bg",
-                    "height": 138,
-                    "width": 246
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/tA2t1lFL3V8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5f725MztgSGKlgd599CR99oaR6Q",
                     "height": 188,
                     "width": 336
                 }
@@ -878,50 +834,6 @@
         {
             "_type": "url",
             "ie_key": "Youtube",
-            "id": "FMdgS7OT9Do",
-            "url": "https://www.youtube.com/watch?v=FMdgS7OT9Do",
-            "title": "how to love",
-            "description": null,
-            "duration": 180,
-            "channel_id": "UC8esyYyIfqhmdntoja-QtbA",
-            "channel": "Abe Parker",
-            "channel_url": "https://www.youtube.com/channel/UC8esyYyIfqhmdntoja-QtbA",
-            "uploader": "Abe Parker",
-            "uploader_id": null,
-            "uploader_url": null,
-            "thumbnails": [
-                {
-                    "url": "https://i.ytimg.com/vi/FMdgS7OT9Do/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCNh6UGbS5whN8AGf7VVgIOypqO7Q",
-                    "height": 94,
-                    "width": 168
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/FMdgS7OT9Do/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDrqeL70vennPqyUH1mlc9rX6CLpQ",
-                    "height": 110,
-                    "width": 196
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/FMdgS7OT9Do/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4Q7lGF5X1ZuSAaKEC7VyRBr1Xrw",
-                    "height": 138,
-                    "width": 246
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/FMdgS7OT9Do/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyzHiZIzJ9OeVqr6500vZ3H70JMA",
-                    "height": 188,
-                    "width": 336
-                }
-            ],
-            "timestamp": null,
-            "release_timestamp": null,
-            "availability": null,
-            "view_count": null,
-            "live_status": null,
-            "channel_is_verified": null,
-            "__x_forwarded_for_ip": null
-        },
-        {
-            "_type": "url",
-            "ie_key": "Youtube",
             "id": "iz6BuPPEwzg",
             "url": "https://www.youtube.com/watch?v=iz6BuPPEwzg",
             "title": "Oldest Daughter",
@@ -951,50 +863,6 @@
                 },
                 {
                     "url": "https://i.ytimg.com/vi/iz6BuPPEwzg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-_Wmuv2IJX0qfHaaYNxveBVDRyw",
-                    "height": 188,
-                    "width": 336
-                }
-            ],
-            "timestamp": null,
-            "release_timestamp": null,
-            "availability": null,
-            "view_count": null,
-            "live_status": null,
-            "channel_is_verified": null,
-            "__x_forwarded_for_ip": null
-        },
-        {
-            "_type": "url",
-            "ie_key": "Youtube",
-            "id": "yjdmtwtBcE0",
-            "url": "https://www.youtube.com/watch?v=yjdmtwtBcE0",
-            "title": "Switchfoot - Darkness (Visualizer)",
-            "description": null,
-            "duration": 248,
-            "channel_id": "UCi9lvMuNrySHqoFfiOLcudQ",
-            "channel": "Switchfoot",
-            "channel_url": "https://www.youtube.com/channel/UCi9lvMuNrySHqoFfiOLcudQ",
-            "uploader": "Switchfoot",
-            "uploader_id": null,
-            "uploader_url": null,
-            "thumbnails": [
-                {
-                    "url": "https://i.ytimg.com/vi/yjdmtwtBcE0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEcgWihlMA8=&rs=AOn4CLDASNnTn_jBnt-G1ZQJMGIEqst0dg",
-                    "height": 94,
-                    "width": 168
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/yjdmtwtBcE0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEcgWihlMA8=&rs=AOn4CLBaWj7IFUd6B-LV7SVLwENZT-AUxg",
-                    "height": 110,
-                    "width": 196
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/yjdmtwtBcE0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIFooZTAP&rs=AOn4CLDMcgkcrNAVvUKtMBxfbrhz0f-FCw",
-                    "height": 138,
-                    "width": 246
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/yjdmtwtBcE0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhHIFooZTAP&rs=AOn4CLA6FdCCcFtgThMsvEtdEqR3h665aQ",
                     "height": 188,
                     "width": 336
                 }
@@ -1494,50 +1362,6 @@
         {
             "_type": "url",
             "ie_key": "Youtube",
-            "id": "AjRkny1Ey5s",
-            "url": "https://www.youtube.com/watch?v=AjRkny1Ey5s",
-            "title": "The Next Right Thing",
-            "description": null,
-            "duration": 217,
-            "channel_id": "UC9ig1qgm0-9QcqIF8jkrmdA",
-            "channel": "Kristen Bell - Topic",
-            "channel_url": "https://www.youtube.com/channel/UC9ig1qgm0-9QcqIF8jkrmdA",
-            "uploader": "Kristen Bell - Topic",
-            "uploader_id": null,
-            "uploader_url": null,
-            "thumbnails": [
-                {
-                    "url": "https://i.ytimg.com/vi/AjRkny1Ey5s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLArfqXnMofQAxl4tFSx7xebhashDA",
-                    "height": 94,
-                    "width": 168
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/AjRkny1Ey5s/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB0Rx_bjNjfb2wC_9q0M921PiI-4g",
-                    "height": 110,
-                    "width": 196
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/AjRkny1Ey5s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCk7p7Z2zuBWGAdNvqPa-nJhQ1qHQ",
-                    "height": 138,
-                    "width": 246
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/AjRkny1Ey5s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCttDiL2kZNi4Tm057b0BvMz-5Dw",
-                    "height": 188,
-                    "width": 336
-                }
-            ],
-            "timestamp": null,
-            "release_timestamp": null,
-            "availability": null,
-            "view_count": null,
-            "live_status": null,
-            "channel_is_verified": null,
-            "__x_forwarded_for_ip": null
-        },
-        {
-            "_type": "url",
-            "ie_key": "Youtube",
             "id": "UXZwQpA3dvo",
             "url": "https://www.youtube.com/watch?v=UXZwQpA3dvo",
             "title": "You Deserve Better",
@@ -1710,6 +1534,94 @@
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "NJB8XcQhKwQ",
+            "url": "https://www.youtube.com/watch?v=NJB8XcQhKwQ",
+            "title": "RUNNING",
+            "description": null,
+            "duration": 254,
+            "channel_id": "UCoRR6OLuIZ2-5VxtnQIaN2w",
+            "channel": "NFrealmusic",
+            "channel_url": "https://www.youtube.com/channel/UCoRR6OLuIZ2-5VxtnQIaN2w",
+            "uploader": "NFrealmusic",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/NJB8XcQhKwQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCX5926mmvoGJ-qUJOkcmtIHWYGeQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/NJB8XcQhKwQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCCUbZ7o43aXIrdGE9K_-U8jx7aVg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/NJB8XcQhKwQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgV0cz0ePY_ZDkVq0SWUvwSZkp9w",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/NJB8XcQhKwQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPsE2b382kdpezzLerdmmjm2-x6g",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": null,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "GgqlM7lOJwU",
+            "url": "https://www.youtube.com/watch?v=GgqlM7lOJwU",
+            "title": "Family Line",
+            "description": null,
+            "duration": 217,
+            "channel_id": "UCUKxvWVo8lmRXkbTOkqUhGg",
+            "channel": "Conan Gray",
+            "channel_url": "https://www.youtube.com/channel/UCUKxvWVo8lmRXkbTOkqUhGg",
+            "uploader": "Conan Gray",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/GgqlM7lOJwU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCt_kWpgkgiOY9ayr0EWFBXTmpJYw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/GgqlM7lOJwU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJCaGI0bPOf0YEdZcHKlZksKw53Q",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/GgqlM7lOJwU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJVYpUvib2KiXqRxw7XbPvEqPOsA",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/GgqlM7lOJwU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1VbaPs8-G2az_FwQJ4N3luO5ZSA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": null,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
         }
     ],
     "extractor_key": "YoutubeTab",
@@ -1719,5 +1631,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789762736
+    "epoch": 1791567362
 }

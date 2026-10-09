@@ -35,9 +35,9 @@
             "resolution": "336x188"
         }
     ],
-    "modified_date": "20260918",
-    "view_count": 9,
-    "playlist_count": 11,
+    "modified_date": "20261003",
+    "view_count": 68,
+    "playlist_count": 18,
     "channel": "Reagan Renee",
     "channel_id": "UCii4x8YBOXK0fnsgdC3EgiQ",
     "uploader_id": "@ReaganRenee-c2f5x",
@@ -153,7 +153,7 @@
                 }
             ],
             "duration": 191,
-            "view_count": 237000,
+            "view_count": 294000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -194,7 +194,7 @@
                 }
             ],
             "duration": 173,
-            "view_count": 799000,
+            "view_count": 843000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -235,7 +235,7 @@
                 }
             ],
             "duration": 162,
-            "view_count": 59000,
+            "view_count": 80000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -276,7 +276,7 @@
                 }
             ],
             "duration": 133,
-            "view_count": 242000,
+            "view_count": 295000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -317,7 +317,7 @@
                 }
             ],
             "duration": 197,
-            "view_count": 25000,
+            "view_count": 35000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -358,7 +358,7 @@
                 }
             ],
             "duration": 180,
-            "view_count": 75000,
+            "view_count": 82000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -481,7 +481,7 @@
                 }
             ],
             "duration": 252,
-            "view_count": 411000,
+            "view_count": 415000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -496,6 +496,297 @@
             "_type": "url",
             "url": "https://www.youtube.com/watch?v=gokBTwuOHjY",
             "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Saved",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/KLgD-azByaM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJnTrnefTAYv880uf8LL5L-5V1tw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/KLgD-azByaM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4ie1eq6RI0weqUXKNF4OGRR0_1w",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/KLgD-azByaM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0nxYVj5sozDzMd_FrzbAY9dbLjQ",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/KLgD-azByaM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9ASz5j2HiojKrd_m_KI1Geb-9Vg",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 175,
+            "view_count": 270000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCzlV2EqbIJJCgMbRGUU0sog",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Joseph O'Brien",
+            "channel_id": "UCzlV2EqbIJJCgMbRGUU0sog",
+            "uploader": "Joseph O'Brien",
+            "ie_key": "Youtube",
+            "id": "KLgD-azByaM",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=KLgD-azByaM",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "demons",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/FppRuJo_eI0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0l7X01f-DZhgCfZSKW-p7RzHl5g",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/FppRuJo_eI0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDq4Vwe3sHohudGSEbcfIWIevwKAA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/FppRuJo_eI0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArH0IHhVklZZymUWO3byHIPSpIYQ",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/FppRuJo_eI0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcpym00X-8AdDVljvRzZp6Ud-Yow",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 190,
+            "view_count": 1000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCKPq4gV4VztdRwGOBRYkP6A",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Josiah Queen",
+            "channel_id": "UCKPq4gV4VztdRwGOBRYkP6A",
+            "uploader": "Josiah Queen",
+            "ie_key": "Youtube",
+            "id": "FppRuJo_eI0",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=FppRuJo_eI0",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Stages",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/Qu9tuQg-_wM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDSvvczdtbvdBGOom8EQYcrY4-glg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Qu9tuQg-_wM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMi2z3iAU9O2K_Twr83v9KGRI8iw",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Qu9tuQg-_wM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPJ6UceZL3nDx9_byy9yP0kg9JTQ",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Qu9tuQg-_wM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0dInFknoFlzSwANjxOL51nhTzAA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 189,
+            "view_count": 473000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCzlV2EqbIJJCgMbRGUU0sog",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Joseph O'Brien",
+            "channel_id": "UCzlV2EqbIJJCgMbRGUU0sog",
+            "uploader": "Joseph O'Brien",
+            "ie_key": "Youtube",
+            "id": "Qu9tuQg-_wM",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=Qu9tuQg-_wM",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Mighty To Save",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/CQo96BKMzWk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4KULt5UkCWma1M1ZeTtD2uvZkBw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/CQo96BKMzWk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBwkMjDpp_td0nDHqJgHkrDZXt1Sg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/CQo96BKMzWk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDWO0W5-Y9eVNaqKsCQuEcQR0iuw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/CQo96BKMzWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBk-2QUu3164nqI5FSzOShIt265aA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 184,
+            "view_count": 1700000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCsdQKDpPVbXDQ8xfLnH6YIg",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Genavieve Linkowski (Singer4Jesus)",
+            "channel_id": "UCsdQKDpPVbXDQ8xfLnH6YIg",
+            "uploader": "Genavieve Linkowski (Singer4Jesus)",
+            "ie_key": "Youtube",
+            "id": "CQo96BKMzWk",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=CQo96BKMzWk",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Speak Life",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/9QxDBGDsW3I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDR1qlWz7KvyVZffLrjQOMNry95ZA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/9QxDBGDsW3I/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCmcYV8KURqyt4ueXgek0eAyq-cxQ",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/9QxDBGDsW3I/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaGZsfa76y0RtFFfKYbe5EkYY4Ow",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/9QxDBGDsW3I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDu4QTldmXarl1OVQLwpbsQIuZajw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 206,
+            "view_count": 12000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCl_X3EjSITWnwFVsq0hUvew",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "TobyMac",
+            "channel_id": "UCl_X3EjSITWnwFVsq0hUvew",
+            "uploader": "TobyMac",
+            "ie_key": "Youtube",
+            "id": "9QxDBGDsW3I",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=9QxDBGDsW3I",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "At The Cross (Love Ran Red)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/29qzPVAagf0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDYWvtoY5m7vj_vIFRxObQv5Seqfg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/29qzPVAagf0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBtr4bmuOuZV0PjQtCiAT_A5h4dhA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/29qzPVAagf0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjlwJZ28P4p68HyoNaNUcbGu04Tg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/29qzPVAagf0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtVswwuP-6frJbt6K9rnp6HwBxzw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 251,
+            "view_count": 5700000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCsNH0JAvjeNjwJKrS_509EA",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Chris Tomlin",
+            "channel_id": "UCsNH0JAvjeNjwJKrS_509EA",
+            "uploader": "Chris Tomlin",
+            "ie_key": "Youtube",
+            "id": "29qzPVAagf0",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=29qzPVAagf0",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Stand In Your Love (Official Lyric Video) - Bethel Music & Josh Baldwin | VICTORY",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/MHLEZzyAZrI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDxGxau4qIiZrG28itqBE8ny7nvwA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/MHLEZzyAZrI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD63Sv3ibgE6h_6VEh2PkAM8iVWPg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/MHLEZzyAZrI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwUnL-sGRkaPKGexZ-kxOnMeo91w",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/MHLEZzyAZrI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCifUqGfWW2vLVI4myEKiX3dGBdKg",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 250,
+            "view_count": 2100000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCbertc-gMbkkHuSmg0qwnxw",
+            "uploader_url": "https://www.youtube.com/@BethelMusic",
+            "creators": [
+                "Bethel Music",
+                "Josh Baldwin"
+            ],
+            "channel": "Bethel Music",
+            "channel_id": "UCbertc-gMbkkHuSmg0qwnxw",
+            "uploader": "Bethel Music",
+            "uploader_id": "@BethelMusic",
+            "ie_key": "Youtube",
+            "id": "MHLEZzyAZrI",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=MHLEZzyAZrI",
+            "__x_forwarded_for_ip": null
         }
     ],
     "extractor_key": "YoutubeTab",
@@ -505,5 +796,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789762735
+    "epoch": 1791567367
 }

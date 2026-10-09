@@ -4,7 +4,7 @@
     "channel_id": "UClSOqN8X8EXZh1mZnMGyqqQ",
     "title": "RiPPp - Playlists",
     "availability": "public",
-    "channel_follower_count": 7,
+    "channel_follower_count": 9,
     "description": "Hello...why are you still reading this?... wellllll, as long as your here.... yeah idk. hi i guess...",
     "tags": [],
     "thumbnails": [
@@ -78,26 +78,26 @@
     "uploader_url": "https://www.youtube.com/@christasapp7390",
     "modified_date": null,
     "view_count": null,
-    "playlist_count": 1,
+    "playlist_count": 2,
     "uploader": "RiPPp",
     "channel_url": "https://www.youtube.com/channel/UClSOqN8X8EXZh1mZnMGyqqQ",
     "_type": "playlist",
     "entries": [
         {
-            "title": "\"I Hate you\u201d ;)",
+            "title": "Maybe Tomorrow",
             "thumbnails": [
                 {
-                    "url": "https://i.ytimg.com/pl_c/PLVAkCfnGlhws/studio_square_thumbnail.jpg?sqp=CKCZttUG-oaymwEICPABEPABSFqi85f_AwYIkvar1QY=&rs=AOn4CLBpOdwxLEBBI80nr2dmLEYUfBuYVw",
+                    "url": "https://i.ytimg.com/pl_c/PLFFVvG0mnHmM/studio_square_thumbnail.jpg?sqp=CMqipNYG-oaymwEICPABEPABSFqi85f_AwYI65zX1QY=&rs=AOn4CLDH6QUzBWJ3i1DggQBXJRo8IhFu3A",
                     "height": 240,
                     "width": 240
                 },
                 {
-                    "url": "https://i.ytimg.com/pl_c/PLVAkCfnGlhws/studio_square_thumbnail.jpg?sqp=CNT-tdUG-oaymwEICOADEOADSFqi85f_AwYIkvar1QY=&rs=AOn4CLBf17rmWcFxtBuqURV_Ws_DN_wugQ",
+                    "url": "https://i.ytimg.com/pl_c/PLFFVvG0mnHmM/studio_square_thumbnail.jpg?sqp=CMOlpNYG-oaymwEICOADEOADSFqi85f_AwYI65zX1QY=&rs=AOn4CLBOAIs3m-6J9FKpJmFlRRiwsq4mlQ",
                     "height": 480,
                     "width": 480
                 },
                 {
-                    "url": "https://i.ytimg.com/pl_c/PLVAkCfnGlhws/studio_square_thumbnail.jpg?sqp=CKi0ttUG-oaymwEICNAFENAFSFqi85f_AwYIkvar1QY=&rs=AOn4CLDghen0vrmUBWCl7v7mF0xz5EariA",
+                    "url": "https://i.ytimg.com/pl_c/PLFFVvG0mnHmM/studio_square_thumbnail.jpg?sqp=CJSQpNYG-oaymwEICNAFENAFSFqi85f_AwYI65zX1QY=&rs=AOn4CLDb2GO0sGbmaU7VabmfHo7FMdQYbQ",
                     "height": 720,
                     "width": 720
                 }
@@ -107,15 +107,54 @@
             "timestamp": null,
             "live_status": null,
             "availability": null,
-            "channel_url": null,
-            "uploader_url": null,
+            "channel_url": "https://www.youtube.com/channel/UClSOqN8X8EXZh1mZnMGyqqQ",
+            "uploader_url": "https://www.youtube.com/@christasapp7390",
             "creators": null,
-            "channel": "View full playlist",
-            "uploader": "View full playlist",
+            "channel": "Playlist",
+            "channel_id": "UClSOqN8X8EXZh1mZnMGyqqQ",
+            "uploader": "Playlist",
+            "uploader_id": "@christasapp7390",
             "ie_key": "YoutubeTab",
-            "id": "PLVAkCfnGlhws",
+            "id": "PLFFVvG0mnHmM",
             "_type": "url",
-            "url": "https://www.youtube.com/playlist?list=PLVAkCfnGlhws",
+            "url": "https://www.youtube.com/playlist?list=PLFFVvG0mnHmM",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "\ud83c\udccf| Finally Happy",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/pl_c/PLd3_4Z8rS414/studio_square_thumbnail.jpg?sqp=COyopNYG-oaymwEICPABEPABSFqi85f_AwYIod3G1QY=&rs=AOn4CLAMDKn8Zypjc-j3XKRsIgfAXftE9Q",
+                    "height": 240,
+                    "width": 240
+                },
+                {
+                    "url": "https://i.ytimg.com/pl_c/PLd3_4Z8rS414/studio_square_thumbnail.jpg?sqp=CJSSpNYG-oaymwEICOADEOADSFqi85f_AwYIod3G1QY=&rs=AOn4CLBiMKrhxr5k03A2NiULsUd86fR9TA",
+                    "height": 480,
+                    "width": 480
+                },
+                {
+                    "url": "https://i.ytimg.com/pl_c/PLd3_4Z8rS414/studio_square_thumbnail.jpg?sqp=CMiupNYG-oaymwEICNAFENAFSFqi85f_AwYIod3G1QY=&rs=AOn4CLA-rxizZgZ0gNcL4QRcXR1tClF9PA",
+                    "height": 720,
+                    "width": 720
+                }
+            ],
+            "duration": null,
+            "view_count": null,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UClSOqN8X8EXZh1mZnMGyqqQ",
+            "uploader_url": "https://www.youtube.com/@christasapp7390",
+            "creators": null,
+            "channel": "Playlist",
+            "channel_id": "UClSOqN8X8EXZh1mZnMGyqqQ",
+            "uploader": "Playlist",
+            "uploader_id": "@christasapp7390",
+            "ie_key": "YoutubeTab",
+            "id": "PLd3_4Z8rS414",
+            "_type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLd3_4Z8rS414",
             "__x_forwarded_for_ip": null
         }
     ],
@@ -126,5 +165,5 @@
     "webpage_url_basename": "playlists",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789762751
+    "epoch": 1791567378
 }

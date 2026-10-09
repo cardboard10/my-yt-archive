@@ -1,0 +1,100 @@
+{
+    "id": "PLHB9GYWdilMU",
+    "title": "ethics",
+    "availability": "public",
+    "channel_follower_count": null,
+    "description": "",
+    "tags": [],
+    "thumbnails": [
+        {
+            "url": "https://i.ytimg.com/vi/Ux5wQOpxLkc/hqdefault.jpg?sqp=-oaymwEwCKgBEF5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhlIEwoQjAP&rs=AOn4CLBiHDliMkxxuE6nkumWQv6Wat911A",
+            "height": 94,
+            "width": 168,
+            "id": "0",
+            "resolution": "168x94"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/Ux5wQOpxLkc/hqdefault.jpg?sqp=-oaymwEwCMQBEG5IWvKriqkDIwgBFQAAiEIYAfABAfgB_gmAAtAFigIMCAAQARhlIEwoQjAP&rs=AOn4CLCq11esH1Lp-S3wJcbl7jV-hfSfog",
+            "height": 110,
+            "width": 196,
+            "id": "1",
+            "resolution": "196x110"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/Ux5wQOpxLkc/hqdefault.jpg?sqp=-oaymwExCPYBEIoBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBMKEIwDw==&rs=AOn4CLBThTe0n4X7YHb2m6qWVl3N1RZ7YA",
+            "height": 138,
+            "width": 246,
+            "id": "2",
+            "resolution": "246x138"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/Ux5wQOpxLkc/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBMKEIwDw==&rs=AOn4CLDjJ_6N3_hZZWDoYBbwR13awMVRMQ",
+            "height": 188,
+            "width": 336,
+            "id": "3",
+            "resolution": "336x188"
+        }
+    ],
+    "modified_date": "20261007",
+    "view_count": 0,
+    "playlist_count": 1,
+    "channel": "Landon Davis",
+    "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_id": "@LandonDavis-v7p",
+    "uploader": "Landon Davis",
+    "channel_url": "https://www.youtube.com/channel/UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_url": "https://www.youtube.com/@LandonDavis-v7p",
+    "_type": "playlist",
+    "entries": [
+        {
+            "title": "Rediscovering Rhetoric - Persuasion from a Heart of Love | Michael Collender | TEDxBillings",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/Ux5wQOpxLkc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgTChCMA8=&rs=AOn4CLDtIeU2Kr9KIhFPh2wGlCn6jVZXvw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Ux5wQOpxLkc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgTChCMA8=&rs=AOn4CLAWlKpSRjGBXXWiCHHiu-f-qTmbIw",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Ux5wQOpxLkc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEwoQjAP&rs=AOn4CLDv1wdayGGr54pd_kyqlOR928QRZQ",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/Ux5wQOpxLkc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIEwoQjAP&rs=AOn4CLBy9VXPiNevMaiGqWvE5fyGPEDf-Q",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 774,
+            "view_count": 19000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "uploader_url": "https://www.youtube.com/@TEDx",
+            "creators": null,
+            "channel": "TEDx Talks",
+            "channel_id": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "uploader": "TEDx Talks",
+            "uploader_id": "@TEDx",
+            "ie_key": "Youtube",
+            "id": "Ux5wQOpxLkc",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=Ux5wQOpxLkc",
+            "__x_forwarded_for_ip": null
+        }
+    ],
+    "extractor_key": "YoutubeTab",
+    "extractor": "youtube:tab",
+    "webpage_url": "https://www.youtube.com/playlist?list=PLHB9GYWdilMU",
+    "original_url": "https://www.youtube.com/playlist?list=PLHB9GYWdilMU",
+    "webpage_url_basename": "playlist",
+    "webpage_url_domain": "youtube.com",
+    "release_year": null,
+    "epoch": 1791567369
+}

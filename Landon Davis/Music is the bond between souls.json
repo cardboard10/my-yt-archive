@@ -35,9 +35,9 @@
             "resolution": "336x188"
         }
     ],
-    "modified_date": "20260821",
-    "view_count": 195,
-    "playlist_count": 32,
+    "modified_date": "20261008",
+    "view_count": 220,
+    "playlist_count": 39,
     "channel": "Landon Davis",
     "channel_id": null,
     "uploader_id": null,
@@ -46,6 +46,314 @@
     "uploader_url": null,
     "_type": "playlist",
     "entries": [
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "wes7jVfM7C8",
+            "url": "https://www.youtube.com/watch?v=wes7jVfM7C8",
+            "title": "Max McNown - Freezing In November (Official Lyric Video)",
+            "description": null,
+            "duration": 153,
+            "channel_id": "UCrutg3fZvLPjQCKZjLeA8Ng",
+            "channel": "Max McNown",
+            "channel_url": "https://www.youtube.com/channel/UCrutg3fZvLPjQCKZjLeA8Ng",
+            "uploader": "Max McNown",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/wes7jVfM7C8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEggYihlMA8=&rs=AOn4CLCDfs68Dj5UQdY93O03qeoyIp-mGA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/wes7jVfM7C8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEggYihlMA8=&rs=AOn4CLA19RwO9UK9aejF8OJDooZc1cdD7w",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/wes7jVfM7C8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhIIGIoZTAP&rs=AOn4CLAempHuxxUiaovG-v_0vhmyKGIK7w",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/wes7jVfM7C8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhIIGIoZTAP&rs=AOn4CLDzQOdZmGN9ttJFBMQfSsIL_nwsaQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": 96000,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "3Xaug91zb6s",
+            "url": "https://www.youtube.com/watch?v=3Xaug91zb6s",
+            "title": "Survivors",
+            "description": null,
+            "duration": 298,
+            "channel_id": "UCFHtCB_FWXQ8GpjgfYcD8-g",
+            "channel": "Passenger",
+            "channel_url": "https://www.youtube.com/channel/UCFHtCB_FWXQ8GpjgfYcD8-g",
+            "uploader": "Passenger",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/3Xaug91zb6s/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPQ_nF_tuxZvVghsZ_KYpfZ4Btog",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/3Xaug91zb6s/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCpqDcHYg45nJcRi5cS97t1hofU3w",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/3Xaug91zb6s/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_Ogns_T6zyhHIp-KvXOXJYsAWFQ",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/3Xaug91zb6s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2iWLWGqKZ6ZBYy6i191wNeoF0Eg",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": 449000,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "BcMwQPYYKec",
+            "url": "https://www.youtube.com/watch?v=BcMwQPYYKec",
+            "title": "Overwhelmed - (Ryan Mack Remix)",
+            "description": null,
+            "duration": 105,
+            "channel_id": "UCvl5PJIA9oVAq9qqoT8pf7Q",
+            "channel": "Ryan Mack",
+            "channel_url": "https://www.youtube.com/channel/UCvl5PJIA9oVAq9qqoT8pf7Q",
+            "uploader": "Ryan Mack",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/BcMwQPYYKec/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLACOv7yImnGQTr_3ryZHs-3IgW8vg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/BcMwQPYYKec/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBXQU4niLc5alBHbA4N8xIwzDMZGg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/BcMwQPYYKec/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf1MPEfEWILUY7ui8MLch3RrX8Kw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/BcMwQPYYKec/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGk58VcOXc89jm8709_XDXd6-m4Q",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": 13000000,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "09HjcqD3YZQ",
+            "url": "https://www.youtube.com/watch?v=09HjcqD3YZQ",
+            "title": "In Between Your Thorns",
+            "description": null,
+            "duration": 219,
+            "channel_id": "UCGv7BiwMG6r9C6JN6ps0PWw",
+            "channel": "Joe Jordan",
+            "channel_url": "https://www.youtube.com/channel/UCGv7BiwMG6r9C6JN6ps0PWw",
+            "uploader": "Joe Jordan",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/09HjcqD3YZQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPxGuejFN9FiT_aDh1OddsM40ENQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/09HjcqD3YZQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxo4cYOowiMJIOq0qjROQQaPLAGg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/09HjcqD3YZQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJM2fX0W3Nk-Dg11nNJheKsneVPg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/09HjcqD3YZQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyopNTvc91__t_XNObTmFBndtHww",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": 41000,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "SmsrYqmToyY",
+            "url": "https://www.youtube.com/watch?v=SmsrYqmToyY",
+            "title": "i'll keep protecting you",
+            "description": null,
+            "duration": 186,
+            "channel_id": "UCmR-xOM0ZjY1cPdFp2WXT4g",
+            "channel": "Powfu",
+            "channel_url": "https://www.youtube.com/channel/UCmR-xOM0ZjY1cPdFp2WXT4g",
+            "uploader": "Powfu",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/SmsrYqmToyY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBo0QzcKF9XzDnSfeV9EilIXGEX_A",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/SmsrYqmToyY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALAf2NKN_1epd_XnSgXweJPOgVtg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/SmsrYqmToyY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKHetBbUhE39_2Dy_2pOW_BI_BsQ",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/SmsrYqmToyY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKnKMJNIg6BcdjLiqeLtwfOFStAg",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": 120000,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "qnEmwwjzAno",
+            "url": "https://www.youtube.com/watch?v=qnEmwwjzAno",
+            "title": "Jaded",
+            "description": null,
+            "duration": 186,
+            "channel_id": "UC3z-jLV-EGKmBPTZ9hKZGBQ",
+            "channel": "Koe Wetzel",
+            "channel_url": "https://www.youtube.com/channel/UC3z-jLV-EGKmBPTZ9hKZGBQ",
+            "uploader": "Koe Wetzel",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/qnEmwwjzAno/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBR8ssa9oqdWQmuKzoZRRHnjbtftw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/qnEmwwjzAno/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDcAdnbSuA6j7E_Cj8yFvligpJthw",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/qnEmwwjzAno/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0vzxsqrNFXxdf2cfGtLHYOtHA2w",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/qnEmwwjzAno/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUCcJ7zKwIcn2BbMxSJd3JCVtTOw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": 1200000,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "CONsQQHfoPE",
+            "url": "https://www.youtube.com/watch?v=CONsQQHfoPE",
+            "title": "No Matter What",
+            "description": null,
+            "duration": 183,
+            "channel_id": "UCilqV3GecszUjixKZWsuZ-w",
+            "channel": "Jamie Miller",
+            "channel_url": "https://www.youtube.com/channel/UCilqV3GecszUjixKZWsuZ-w",
+            "uploader": "Jamie Miller",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/CONsQQHfoPE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBC6thPg1Mb6z-ABk8FFt-lbDGVmg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/CONsQQHfoPE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALVU_7PTGrPx-4zSGJ-_DucDtUVA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/CONsQQHfoPE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB19tqGHpH6Un0r8NWNmvEf_6X6tg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/CONsQQHfoPE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPyFUDZexS8af60x-eaXyyZ7kbuA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": 2300000,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
+        },
         {
             "_type": "url",
             "ie_key": "Youtube",
@@ -173,7 +481,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 350000000,
+            "view_count": 352000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -261,7 +569,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 6400000,
+            "view_count": 6500000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -305,7 +613,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 57000000,
+            "view_count": 58000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -349,7 +657,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 18000000,
+            "view_count": 19000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -393,7 +701,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 1400000,
+            "view_count": 1500000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -437,7 +745,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 9900000,
+            "view_count": 10000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -481,7 +789,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 38000000,
+            "view_count": 39000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -525,7 +833,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 11000,
+            "view_count": 12000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -657,7 +965,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 213000,
+            "view_count": 233000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -701,7 +1009,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 58000,
+            "view_count": 66000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -745,7 +1053,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 101000,
+            "view_count": 102000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -833,7 +1141,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 322000000,
+            "view_count": 325000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -877,7 +1185,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 161000000,
+            "view_count": 163000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -921,7 +1229,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 1200000,
+            "view_count": 1300000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -1009,7 +1317,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 52000000,
+            "view_count": 53000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -1053,7 +1361,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 803000,
+            "view_count": 857000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -1141,7 +1449,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 321000000,
+            "view_count": 325000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -1185,7 +1493,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 3600000,
+            "view_count": 3700000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -1449,7 +1757,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 100000000,
+            "view_count": 101000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -1462,5 +1770,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789762751
+    "epoch": 1791567378
 }

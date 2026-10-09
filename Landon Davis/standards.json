@@ -35,9 +35,9 @@
             "resolution": "336x188"
         }
     ],
-    "modified_date": "20260916",
+    "modified_date": "20261009",
     "view_count": 22,
-    "playlist_count": 16,
+    "playlist_count": 19,
     "channel": "Landon Davis",
     "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
     "uploader_id": "@LandonDavis-v7p",
@@ -112,7 +112,7 @@
                 }
             ],
             "duration": 139,
-            "view_count": 152000,
+            "view_count": 163000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -153,7 +153,7 @@
                 }
             ],
             "duration": 220,
-            "view_count": 733000,
+            "view_count": 758000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -194,7 +194,7 @@
                 }
             ],
             "duration": 201,
-            "view_count": 102000000,
+            "view_count": 103000000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -276,7 +276,7 @@
                 }
             ],
             "duration": 222,
-            "view_count": 33000000,
+            "view_count": 34000000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -317,7 +317,7 @@
                 }
             ],
             "duration": 206,
-            "view_count": 730000,
+            "view_count": 732000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -358,7 +358,7 @@
                 }
             ],
             "duration": 192,
-            "view_count": 226000,
+            "view_count": 234000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -399,7 +399,7 @@
                 }
             ],
             "duration": 208,
-            "view_count": 24000000,
+            "view_count": 25000000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -441,7 +441,7 @@
                 }
             ],
             "duration": 205,
-            "view_count": 69000,
+            "view_count": 70000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -564,7 +564,7 @@
                 }
             ],
             "duration": 229,
-            "view_count": 3000000,
+            "view_count": 3100000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -605,7 +605,7 @@
                 }
             ],
             "duration": 186,
-            "view_count": 998000,
+            "view_count": 1000000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -687,7 +687,7 @@
                 }
             ],
             "duration": 178,
-            "view_count": 217000,
+            "view_count": 220000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -702,6 +702,129 @@
             "_type": "url",
             "url": "https://www.youtube.com/watch?v=bdIaWxcOrOc",
             "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "In Between Your Thorns",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/09HjcqD3YZQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPxGuejFN9FiT_aDh1OddsM40ENQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/09HjcqD3YZQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAxo4cYOowiMJIOq0qjROQQaPLAGg",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/09HjcqD3YZQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJM2fX0W3Nk-Dg11nNJheKsneVPg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/09HjcqD3YZQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyopNTvc91__t_XNObTmFBndtHww",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 219,
+            "view_count": 41000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCGv7BiwMG6r9C6JN6ps0PWw",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Joe Jordan",
+            "channel_id": "UCGv7BiwMG6r9C6JN6ps0PWw",
+            "uploader": "Joe Jordan",
+            "ie_key": "Youtube",
+            "id": "09HjcqD3YZQ",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=09HjcqD3YZQ",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "No Matter What",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/CONsQQHfoPE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBC6thPg1Mb6z-ABk8FFt-lbDGVmg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/CONsQQHfoPE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALVU_7PTGrPx-4zSGJ-_DucDtUVA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/CONsQQHfoPE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB19tqGHpH6Un0r8NWNmvEf_6X6tg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/CONsQQHfoPE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPyFUDZexS8af60x-eaXyyZ7kbuA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 183,
+            "view_count": 2300000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCilqV3GecszUjixKZWsuZ-w",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Jamie Miller",
+            "channel_id": "UCilqV3GecszUjixKZWsuZ-w",
+            "uploader": "Jamie Miller",
+            "ie_key": "Youtube",
+            "id": "CONsQQHfoPE",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=CONsQQHfoPE",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "NF - Time",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/E1ZVSFfCk9g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-9cRTDcpwCbxD3F7vPxkprFJhlA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/E1ZVSFfCk9g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAoY-ohkFcek0_8dKJAbG_6b5a2Jw",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/E1ZVSFfCk9g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSHabu_E6JOmkhkyZ9Z7W7zoW86Q",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/E1ZVSFfCk9g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAJM8f6fJwutBvN08X6vHquAGGaTw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 244,
+            "view_count": 105000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCoRR6OLuIZ2-5VxtnQIaN2w",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "NFrealmusic",
+            "channel_id": "UCoRR6OLuIZ2-5VxtnQIaN2w",
+            "uploader": "NFrealmusic",
+            "ie_key": "Youtube",
+            "id": "E1ZVSFfCk9g",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=E1ZVSFfCk9g",
+            "__x_forwarded_for_ip": null
         }
     ],
     "extractor_key": "YoutubeTab",
@@ -711,5 +834,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789762748
+    "epoch": 1791567375
 }

@@ -35,9 +35,9 @@
             "resolution": "336x188"
         }
     ],
-    "modified_date": "20260918",
-    "view_count": 4,
-    "playlist_count": 11,
+    "modified_date": "20261009",
+    "view_count": 56,
+    "playlist_count": 17,
     "channel": "Landon Davis",
     "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
     "uploader_id": "@LandonDavis-v7p",
@@ -112,7 +112,7 @@
                 }
             ],
             "duration": 233,
-            "view_count": 233000,
+            "view_count": 246000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -154,7 +154,7 @@
                 }
             ],
             "duration": 224,
-            "view_count": 74000000,
+            "view_count": 75000000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -195,7 +195,7 @@
                 }
             ],
             "duration": 275,
-            "view_count": 6100000,
+            "view_count": 6800000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -277,7 +277,7 @@
                 }
             ],
             "duration": 178,
-            "view_count": 217000,
+            "view_count": 220000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -359,7 +359,7 @@
                 }
             ],
             "duration": 180,
-            "view_count": 2200000,
+            "view_count": 2500000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -497,6 +497,252 @@
             "_type": "url",
             "url": "https://www.youtube.com/watch?v=Mxg3r2xJ9NM",
             "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Tim McGraw - Live Like You Were Dying (Official Music Video)",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/_9TShlMkQnc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAEJolN9dqpLwlHZGEeOiqxEAdnYA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/_9TShlMkQnc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCJgLx2ejKw9SfOyHG2D3ysMJHo4Q",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/_9TShlMkQnc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLB2jZkC-BIgZzpkFvIGTuCvt2WHgw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/_9TShlMkQnc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDyLUEwD4A7msGoOhsHsUXqma9Gfw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 267,
+            "view_count": 46000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UC2mK990tp7umnN6Y-DEGpDg",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Tim McGraw",
+            "channel_id": "UC2mK990tp7umnN6Y-DEGpDg",
+            "uploader": "Tim McGraw",
+            "ie_key": "Youtube",
+            "id": "_9TShlMkQnc",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=_9TShlMkQnc",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Stand",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/hWcdEoEkseo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCt64yennboGJ-99_jJ0QYk_mNwvQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/hWcdEoEkseo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA8oUsGoqAidau2leU8yY2zezv1fA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/hWcdEoEkseo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAUe3FIy9obZZdKEPEwM5KDiX1xA",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/hWcdEoEkseo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOdXxzHLeLI-8uSY7zW41vmKiRqQ",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 210,
+            "view_count": 149000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UC9F0_TxVt2n3pBRCndTEjOQ",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Anne Wilson",
+            "channel_id": "UC9F0_TxVt2n3pBRCndTEjOQ",
+            "uploader": "Anne Wilson",
+            "ie_key": "Youtube",
+            "id": "hWcdEoEkseo",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=hWcdEoEkseo",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "wildfire",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/6bKu0kPdW-o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAWm_XU9-ypz_T57KYgEC8t-j8iIQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/6bKu0kPdW-o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZwymSFBvrF5-gKIwmhljpV56qFQ",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/6bKu0kPdW-o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2NG_LCGX8p3sgBoX0v5WJSMKWDg",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/6bKu0kPdW-o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp5nMPbHwbbIUlMm7rnlTjFVp7dA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 162,
+            "view_count": 80000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UC7Bjk8Atufq_51l9pXPv9gw",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "STRINGS & HEART",
+            "channel_id": "UC7Bjk8Atufq_51l9pXPv9gw",
+            "uploader": "STRINGS & HEART",
+            "ie_key": "Youtube",
+            "id": "6bKu0kPdW-o",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=6bKu0kPdW-o",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "NF - The Search",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/fnlJw9H0xAM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFSn-Ee_psg0AWwoI4EXs_pfPT8Q",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/fnlJw9H0xAM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsfRBzG29OC82yHsi4l2joaJI_bQ",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/fnlJw9H0xAM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKWOLN5USP97E1BGNWIeOepV909A",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/fnlJw9H0xAM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXp2VszOhcTgHNeUhT71RJ4x37Jw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 292,
+            "view_count": 340000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCoRR6OLuIZ2-5VxtnQIaN2w",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "NFrealmusic",
+            "channel_id": "UCoRR6OLuIZ2-5VxtnQIaN2w",
+            "uploader": "NFrealmusic",
+            "ie_key": "Youtube",
+            "id": "fnlJw9H0xAM",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=fnlJw9H0xAM",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "NF - Leave Me Alone",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/XGGWhOUYObc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDfBSaqlBlmouAZCFwAvCjOPxe8UA",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/XGGWhOUYObc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoSGHnS1i408QHrVYjHBBpONqMZA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/XGGWhOUYObc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxIuo8aoJnyMa5foRDAeXdlYWegw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/XGGWhOUYObc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHahbCbyVs1LbVWeLM-3tlvQSxew",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 313,
+            "view_count": 137000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCoRR6OLuIZ2-5VxtnQIaN2w",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "NFrealmusic",
+            "channel_id": "UCoRR6OLuIZ2-5VxtnQIaN2w",
+            "uploader": "NFrealmusic",
+            "ie_key": "Youtube",
+            "id": "XGGWhOUYObc",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=XGGWhOUYObc",
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "Biblical Hero",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/rc4xBEwxqYA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXu7JbXzO02ONBcu6jtjdcYrcDcw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/rc4xBEwxqYA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC1qiLdJRtCyJskE1WE-XL89LUivA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/rc4xBEwxqYA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgsAXQESLSQvl03LHFhQLC2un_DA",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/rc4xBEwxqYA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaNTn97y7HYmB5xjcM1RlE2cnMwg",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 187,
+            "view_count": 268000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCuKuKMTHq9puc0qD_eAxRRw",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "MUNN",
+            "channel_id": "UCuKuKMTHq9puc0qD_eAxRRw",
+            "uploader": "MUNN",
+            "ie_key": "Youtube",
+            "id": "rc4xBEwxqYA",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=rc4xBEwxqYA",
+            "__x_forwarded_for_ip": null
         }
     ],
     "extractor_key": "YoutubeTab",
@@ -506,5 +752,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1789762746
+    "epoch": 1791567373
 }
