@@ -35,8 +35,8 @@
             "resolution": "336x188"
         }
     ],
-    "modified_date": "20261008",
-    "view_count": 220,
+    "modified_date": "20261011",
+    "view_count": 227,
     "playlist_count": 39,
     "channel": "Landon Davis",
     "channel_id": null,
@@ -46,6 +46,50 @@
     "uploader_url": null,
     "_type": "playlist",
     "entries": [
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "DLnvrGM4eNQ",
+            "url": "https://www.youtube.com/watch?v=DLnvrGM4eNQ",
+            "title": "Hey There Delilah",
+            "description": null,
+            "duration": 233,
+            "channel_id": "UCf7yuABFkTc4uZhjIHuuvHg",
+            "channel": "Plain White Ts",
+            "channel_url": "https://www.youtube.com/channel/UCf7yuABFkTc4uZhjIHuuvHg",
+            "uploader": "Plain White Ts",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/DLnvrGM4eNQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAOYk_UQZEkkuaousG5Zh73Ad19kw",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/DLnvrGM4eNQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCS1RsIwzZbvA55P1U0QUUm5S_Qfw",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/DLnvrGM4eNQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKEgzwPGiXW0oljxdXQDyLbRQP4Q",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/DLnvrGM4eNQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA73gGRxi2uTIP5BA8Li9s9COoJHw",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": 1000000,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
+        },
         {
             "_type": "url",
             "ie_key": "Youtube",
@@ -129,7 +173,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 449000,
+            "view_count": 450000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -261,7 +305,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 120000,
+            "view_count": 121000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -305,7 +349,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 1200000,
+            "view_count": 1300000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -350,50 +394,6 @@
             "release_timestamp": null,
             "availability": null,
             "view_count": 2300000,
-            "live_status": null,
-            "channel_is_verified": null,
-            "__x_forwarded_for_ip": null
-        },
-        {
-            "_type": "url",
-            "ie_key": "Youtube",
-            "id": "RDuzszjrdcc",
-            "url": "https://www.youtube.com/watch?v=RDuzszjrdcc",
-            "title": "Seven Nation Army",
-            "description": null,
-            "duration": 232,
-            "channel_id": "UC0sQemK7pgX5fYy0k1MFsHg",
-            "channel": "The White Stripes",
-            "channel_url": "https://www.youtube.com/channel/UC0sQemK7pgX5fYy0k1MFsHg",
-            "uploader": "The White Stripes",
-            "uploader_id": null,
-            "uploader_url": null,
-            "thumbnails": [
-                {
-                    "url": "https://i.ytimg.com/vi/RDuzszjrdcc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAGf-ACS3vo09aRD7qxSRqEAJ8_XQ",
-                    "height": 94,
-                    "width": 168
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/RDuzszjrdcc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBfuQXHia619yg9iFjBf-W0LHxqdA",
-                    "height": 110,
-                    "width": 196
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/RDuzszjrdcc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeAuOpb6wNE-aWcVSTiYf2s3uuCA",
-                    "height": 138,
-                    "width": 246
-                },
-                {
-                    "url": "https://i.ytimg.com/vi/RDuzszjrdcc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANDpS_LUXNhqmN4Qodxu4VoXF2xg",
-                    "height": 188,
-                    "width": 336
-                }
-            ],
-            "timestamp": null,
-            "release_timestamp": null,
-            "availability": null,
-            "view_count": 85000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -877,7 +877,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 90000000,
+            "view_count": 91000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -965,7 +965,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 233000,
+            "view_count": 234000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -1009,7 +1009,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 66000,
+            "view_count": 67000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -1317,7 +1317,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 53000000,
+            "view_count": 54000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -1361,7 +1361,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 857000,
+            "view_count": 862000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -1581,7 +1581,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 9200000,
+            "view_count": 9300000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -1669,7 +1669,7 @@
             "timestamp": null,
             "release_timestamp": null,
             "availability": null,
-            "view_count": 10000000,
+            "view_count": 11000000,
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
@@ -1770,5 +1770,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1791569509
+    "epoch": 1791748061
 }

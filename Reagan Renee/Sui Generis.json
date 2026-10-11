@@ -7,30 +7,30 @@
     "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/pl_c/PLXD3iBx4KJRI/studio_square_thumbnail.jpg?sqp=CNCqpNYG-oaymwEICPABEPABSFqi85f_AwYI2e791AY=&rs=AOn4CLDi5CxbEbp-8BjyisS1R6vNN0ekhA",
+            "url": "https://i.ytimg.com/pl_c/PLXD3iBx4KJRI/studio_square_thumbnail.jpg?sqp=CK--r9YG-oaymwEICPABEPABSFqi85f_AwYI2e791AY=&rs=AOn4CLCIPGdX6-ZMAyH_dNsyI5RSZdd4wg",
             "height": 240,
             "width": 240,
             "id": "0",
             "resolution": "240x240"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PLXD3iBx4KJRI/studio_square_thumbnail.jpg?sqp=CIrQpNYG-oaymwEICOADEOADSFqi85f_AwYI2e791AY=&rs=AOn4CLBQhkuBqlIVWg12liQwspf1ai3AXA",
+            "url": "https://i.ytimg.com/pl_c/PLXD3iBx4KJRI/studio_square_thumbnail.jpg?sqp=COKlr9YG-oaymwEICOADEOADSFqi85f_AwYI2e791AY=&rs=AOn4CLCChi6VXTUWZu1GkOiO95nOQK_IrA",
             "height": 480,
             "width": 480,
             "id": "1",
             "resolution": "480x480"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PLXD3iBx4KJRI/studio_square_thumbnail.jpg?sqp=CIjRpNYG-oaymwEICNAFENAFSFqi85f_AwYI2e791AY=&rs=AOn4CLBLrOS-JGwXhfqDMpFgjdcj7BcQbQ",
+            "url": "https://i.ytimg.com/pl_c/PLXD3iBx4KJRI/studio_square_thumbnail.jpg?sqp=CJinr9YG-oaymwEICNAFENAFSFqi85f_AwYI2e791AY=&rs=AOn4CLA0UtTuhiside-rhULUQPsyKh_P3w",
             "height": 720,
             "width": 720,
             "id": "2",
             "resolution": "720x720"
         }
     ],
-    "modified_date": "20261008",
+    "modified_date": "20261011",
     "view_count": 325,
-    "playlist_count": 38,
+    "playlist_count": 40,
     "channel": "Reagan Renee",
     "channel_id": "UCii4x8YBOXK0fnsgdC3EgiQ",
     "uploader_id": "@ReaganRenee-c2f5x",
@@ -1710,6 +1710,94 @@
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "z1SxdxOMUTc",
+            "url": "https://www.youtube.com/watch?v=z1SxdxOMUTc",
+            "title": "He Knows My Name",
+            "description": null,
+            "duration": 208,
+            "channel_id": "UCfLIak8yy1OHlFIKjE-sR7w",
+            "channel": "FrancescaBattistelli",
+            "channel_url": "https://www.youtube.com/channel/UCfLIak8yy1OHlFIKjE-sR7w",
+            "uploader": "FrancescaBattistelli",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/z1SxdxOMUTc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDx7q8m6MLAA7LsE3G-qfcAU5FkOQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/z1SxdxOMUTc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCbpdUCn9-NHOjwJV048ffreHUgA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/z1SxdxOMUTc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxbAPIMUBn7SFb4EdRJmBwMKLPbw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/z1SxdxOMUTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB32IdCw_HFBl-rocDJCnaufhxMbA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": null,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "GXoZLPSw8U8",
+            "url": "https://www.youtube.com/watch?v=GXoZLPSw8U8",
+            "title": "Colbie Caillat - Try (Official Video)",
+            "description": null,
+            "duration": 232,
+            "channel_id": "UCjqaQjDZ16zXwDjIuU-TAkg",
+            "channel": "Colbie Caillat",
+            "channel_url": "https://www.youtube.com/channel/UCjqaQjDZ16zXwDjIuU-TAkg",
+            "uploader": "Colbie Caillat",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/GXoZLPSw8U8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCjU__ZmeWIv61RSyZi7UgBvIG3TQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/GXoZLPSw8U8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDnu4pzya9YLcWrvVD9DNnt3eMzSA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/GXoZLPSw8U8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdNkfsrrS0IcXADJCCc3juMxGsyA",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/GXoZLPSw8U8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa8aXK5qo7cC5ThmyKp4Q5txYG_w",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": null,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
         }
     ],
     "extractor_key": "YoutubeTab",
@@ -1719,5 +1807,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1791569498
+    "epoch": 1791748051
 }

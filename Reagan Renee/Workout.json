@@ -7,30 +7,30 @@
     "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/pl_c/PLRYTiepE4Cuc/studio_square_thumbnail.jpg?sqp=CN6ypNYG-oaymwEICPABEPABSFqi85f_AwYIxefI1AY=&rs=AOn4CLCTkWM55iAs6gbU3-OjeaJ8UuzFig",
+            "url": "https://i.ytimg.com/pl_c/PLRYTiepE4Cuc/studio_square_thumbnail.jpg?sqp=CNLIr9YG-oaymwEICPABEPABSFqi85f_AwYIxefI1AY=&rs=AOn4CLAr1FTETemrbUXQXcWvy5djBWZpNQ",
             "height": 240,
             "width": 240,
             "id": "0",
             "resolution": "240x240"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PLRYTiepE4Cuc/studio_square_thumbnail.jpg?sqp=COSjpNYG-oaymwEICOADEOADSFqi85f_AwYIxefI1AY=&rs=AOn4CLBcV9bWSYCIbl2SYbD95P7q_XAueg",
+            "url": "https://i.ytimg.com/pl_c/PLRYTiepE4Cuc/studio_square_thumbnail.jpg?sqp=CO6Xr9YG-oaymwEICOADEOADSFqi85f_AwYIxefI1AY=&rs=AOn4CLBkCM8iOQ7I4jrGB4mDSMe5IYC1Jg",
             "height": 480,
             "width": 480,
             "id": "1",
             "resolution": "480x480"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PLRYTiepE4Cuc/studio_square_thumbnail.jpg?sqp=CIC8pNYG-oaymwEICNAFENAFSFqi85f_AwYIxefI1AY=&rs=AOn4CLCrJN4TYnDcmJOBFnYKOjzYUKtolw",
+            "url": "https://i.ytimg.com/pl_c/PLRYTiepE4Cuc/studio_square_thumbnail.jpg?sqp=CPm8r9YG-oaymwEICNAFENAFSFqi85f_AwYIxefI1AY=&rs=AOn4CLAyrTmnEs6YaNi-2bdoAvhXxPK-2g",
             "height": 720,
             "width": 720,
             "id": "2",
             "resolution": "720x720"
         }
     ],
-    "modified_date": "20261008",
-    "view_count": 135,
-    "playlist_count": 22,
+    "modified_date": "20261010",
+    "view_count": 142,
+    "playlist_count": 23,
     "channel": "Reagan Renee",
     "channel_id": "UCii4x8YBOXK0fnsgdC3EgiQ",
     "uploader_id": "@ReaganRenee-c2f5x",
@@ -1006,6 +1006,50 @@
             "live_status": null,
             "channel_is_verified": null,
             "__x_forwarded_for_ip": null
+        },
+        {
+            "_type": "url",
+            "ie_key": "Youtube",
+            "id": "9ssQKlLxBdQ",
+            "url": "https://www.youtube.com/watch?v=9ssQKlLxBdQ",
+            "title": "Thunder",
+            "description": null,
+            "duration": 188,
+            "channel_id": "UCT9zcQNlyht7fRlcjmflRSA",
+            "channel": "ImagineDragons",
+            "channel_url": "https://www.youtube.com/channel/UCT9zcQNlyht7fRlcjmflRSA",
+            "uploader": "ImagineDragons",
+            "uploader_id": null,
+            "uploader_url": null,
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/9ssQKlLxBdQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCSw-asKOp9YxikYyPQrHeRYABvjg",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/9ssQKlLxBdQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCpAcrfjMM6ywlX5BgnKKcZpgaDQ",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/9ssQKlLxBdQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB523JR8hwkL5nEBL4JVWL4DMGpoQ",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/9ssQKlLxBdQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD25BP1Qpw81CrRQcep2H22fL8lnA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "timestamp": null,
+            "release_timestamp": null,
+            "availability": null,
+            "view_count": null,
+            "live_status": null,
+            "channel_is_verified": null,
+            "__x_forwarded_for_ip": null
         }
     ],
     "extractor_key": "YoutubeTab",
@@ -1015,5 +1059,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1791569499
+    "epoch": 1791748051
 }

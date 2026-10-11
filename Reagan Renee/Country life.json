@@ -7,29 +7,29 @@
     "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYWLYuJAxZaxvbw3DqFsEcaR/studio_square_thumbnail.jpg?sqp=CIitpNYG-oaymwEICPABEPABSFqi85f_AwYIiJe90AY=&rs=AOn4CLBOk64AI40SFz9yWz6Nh2m6JyS2ew",
+            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYWLYuJAxZaxvbw3DqFsEcaR/studio_square_thumbnail.jpg?sqp=CPylr9YG-oaymwEICPABEPABSFqi85f_AwYIiJe90AY=&rs=AOn4CLD8YEcX3rY_GU2-jW1KNNN5b_R-gg",
             "height": 240,
             "width": 240,
             "id": "0",
             "resolution": "240x240"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYWLYuJAxZaxvbw3DqFsEcaR/studio_square_thumbnail.jpg?sqp=CIjPpNYG-oaymwEICOADEOADSFqi85f_AwYIiJe90AY=&rs=AOn4CLCXKb83fVMnR9mRnGAaf3tXgxtxCw",
+            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYWLYuJAxZaxvbw3DqFsEcaR/studio_square_thumbnail.jpg?sqp=CIC2r9YG-oaymwEICOADEOADSFqi85f_AwYIiJe90AY=&rs=AOn4CLA_K5MbxSKeAwwA2bJAEj0zeGCZGw",
             "height": 480,
             "width": 480,
             "id": "1",
             "resolution": "480x480"
         },
         {
-            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYWLYuJAxZaxvbw3DqFsEcaR/studio_square_thumbnail.jpg?sqp=CPiXpNYG-oaymwEICNAFENAFSFqi85f_AwYIiJe90AY=&rs=AOn4CLCgk2X-DAYntclV-SuD-IH2eXqInA",
+            "url": "https://i.ytimg.com/pl_c/PL0fHDn9vqTYWLYuJAxZaxvbw3DqFsEcaR/studio_square_thumbnail.jpg?sqp=CPKYr9YG-oaymwEICNAFENAFSFqi85f_AwYIiJe90AY=&rs=AOn4CLCggUPEK_ZMwpYDyxdTUVv4gFebsg",
             "height": 720,
             "width": 720,
             "id": "2",
             "resolution": "720x720"
         }
     ],
-    "modified_date": "20261004",
-    "view_count": 2147,
+    "modified_date": "20261002",
+    "view_count": 2154,
     "playlist_count": 171,
     "channel": "Reagan Renee",
     "channel_id": "UCii4x8YBOXK0fnsgdC3EgiQ",
@@ -7571,5 +7571,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1791569495
+    "epoch": 1791748047
 }

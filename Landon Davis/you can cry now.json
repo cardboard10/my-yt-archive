@@ -7,7 +7,7 @@
     "tags": [],
     "thumbnails": [
         {
-            "url": "https://i.ytimg.com/pl_c/PLZYzoP4c2lTM/studio_square_thumbnail.jpg?sqp=CKrBpNYG-oaymwEICPABEPABSFqi85f_AwYI79D_1QY=&rs=AOn4CLCWBmy2qGU6xTNe1-SQEf2iyFQl6Q",
+            "url": "https://i.ytimg.com/pl_c/PLZYzoP4c2lTM/studio_square_thumbnail.jpg?sqp=CNSQr9YG-oaymwEICPABEPABSFqi85f_AwYI79D_1QY=&rs=AOn4CLBjzftNB3CBnRbNorL1DoOXJn7p-A",
             "height": 240,
             "width": 240,
             "id": "0",
@@ -15,7 +15,7 @@
         }
     ],
     "modified_date": "20261005",
-    "view_count": 7,
+    "view_count": 8,
     "playlist_count": 2,
     "channel": "Landon Davis",
     "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
@@ -50,7 +50,7 @@
                 }
             ],
             "duration": 178,
-            "view_count": 321000,
+            "view_count": 322000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -115,5 +115,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1791569500
+    "epoch": 1791748053
 }

@@ -35,9 +35,9 @@
             "resolution": "336x188"
         }
     ],
-    "modified_date": "20261003",
+    "modified_date": "20261011",
     "view_count": 68,
-    "playlist_count": 18,
+    "playlist_count": 19,
     "channel": "Reagan Renee",
     "channel_id": "UCii4x8YBOXK0fnsgdC3EgiQ",
     "uploader_id": "@ReaganRenee-c2f5x",
@@ -153,7 +153,7 @@
                 }
             ],
             "duration": 191,
-            "view_count": 294000,
+            "view_count": 299000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -194,7 +194,7 @@
                 }
             ],
             "duration": 173,
-            "view_count": 843000,
+            "view_count": 847000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -235,7 +235,7 @@
                 }
             ],
             "duration": 162,
-            "view_count": 80000,
+            "view_count": 82000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -276,7 +276,7 @@
                 }
             ],
             "duration": 133,
-            "view_count": 295000,
+            "view_count": 300000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -481,7 +481,7 @@
                 }
             ],
             "duration": 252,
-            "view_count": 415000,
+            "view_count": 416000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -604,7 +604,7 @@
                 }
             ],
             "duration": 189,
-            "view_count": 473000,
+            "view_count": 474000,
             "timestamp": null,
             "live_status": null,
             "availability": null,
@@ -787,6 +787,47 @@
             "_type": "url",
             "url": "https://www.youtube.com/watch?v=MHLEZzyAZrI",
             "__x_forwarded_for_ip": null
+        },
+        {
+            "title": "He Knows My Name",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/z1SxdxOMUTc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDx7q8m6MLAA7LsE3G-qfcAU5FkOQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/z1SxdxOMUTc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDCbpdUCn9-NHOjwJV048ffreHUgA",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/z1SxdxOMUTc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDxbAPIMUBn7SFb4EdRJmBwMKLPbw",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/z1SxdxOMUTc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB32IdCw_HFBl-rocDJCnaufhxMbA",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 208,
+            "view_count": 4000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCfLIak8yy1OHlFIKjE-sR7w",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "FrancescaBattistelli",
+            "channel_id": "UCfLIak8yy1OHlFIKjE-sR7w",
+            "uploader": "FrancescaBattistelli",
+            "ie_key": "Youtube",
+            "id": "z1SxdxOMUTc",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=z1SxdxOMUTc",
+            "__x_forwarded_for_ip": null
         }
     ],
     "extractor_key": "YoutubeTab",
@@ -796,5 +837,5 @@
     "webpage_url_basename": "playlist",
     "webpage_url_domain": "youtube.com",
     "release_year": null,
-    "epoch": 1791569498
+    "epoch": 1791748050
 }

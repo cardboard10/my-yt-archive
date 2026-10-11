@@ -1,0 +1,99 @@
+{
+    "id": "PLbkbERZFtSco",
+    "title": "should be the radio",
+    "availability": "public",
+    "channel_follower_count": null,
+    "description": "",
+    "tags": [],
+    "thumbnails": [
+        {
+            "url": "https://i.ytimg.com/vi/rAS23BVAqKg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAJHw3DnHST8IW6DjCGpCtq62Ow_w",
+            "height": 94,
+            "width": 168,
+            "id": "0",
+            "resolution": "168x94"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/rAS23BVAqKg/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDf9h94Tb7fey1HOumR3bBFVuGyrQ",
+            "height": 110,
+            "width": 196,
+            "id": "1",
+            "resolution": "196x110"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/rAS23BVAqKg/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAAKNXb0DR5IBGuUprLxZFeViX8dQ",
+            "height": 138,
+            "width": 246,
+            "id": "2",
+            "resolution": "246x138"
+        },
+        {
+            "url": "https://i.ytimg.com/vi/rAS23BVAqKg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDf0vDNESRMs-2s3UGAwDKSSoWpNg",
+            "height": 188,
+            "width": 336,
+            "id": "3",
+            "resolution": "336x188"
+        }
+    ],
+    "modified_date": "20261011",
+    "view_count": 0,
+    "playlist_count": 1,
+    "channel": "Landon Davis",
+    "channel_id": "UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_id": "@LandonDavis-v7p",
+    "uploader": "Landon Davis",
+    "channel_url": "https://www.youtube.com/channel/UC61UhLcUuk3gHUeNSwH4pew",
+    "uploader_url": "https://www.youtube.com/@LandonDavis-v7p",
+    "_type": "playlist",
+    "entries": [
+        {
+            "title": "The River",
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/rAS23BVAqKg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCI6J3hZbT0cHJoK-UTCGNP23-BuQ",
+                    "height": 94,
+                    "width": 168
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/rAS23BVAqKg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBldg-ZkS-cSi1r6b_T2ErPcnRCqw",
+                    "height": 110,
+                    "width": 196
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/rAS23BVAqKg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBj_YqiMZSSODtT7gCotkWN9ZhSiA",
+                    "height": 138,
+                    "width": 246
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/rAS23BVAqKg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABMKAw8p-w97tLVFzI-ivIyucM2w",
+                    "height": 188,
+                    "width": 336
+                }
+            ],
+            "duration": 196,
+            "view_count": 10000000,
+            "timestamp": null,
+            "live_status": null,
+            "availability": null,
+            "channel_url": "https://www.youtube.com/channel/UCchqPTKA88Iy65CE99AISFQ",
+            "uploader_url": null,
+            "creators": null,
+            "channel": "Jordan Feliz",
+            "channel_id": "UCchqPTKA88Iy65CE99AISFQ",
+            "uploader": "Jordan Feliz",
+            "ie_key": "Youtube",
+            "id": "rAS23BVAqKg",
+            "_type": "url",
+            "url": "https://www.youtube.com/watch?v=rAS23BVAqKg",
+            "__x_forwarded_for_ip": null
+        }
+    ],
+    "extractor_key": "YoutubeTab",
+    "extractor": "youtube:tab",
+    "webpage_url": "https://www.youtube.com/playlist?list=PLbkbERZFtSco",
+    "original_url": "https://www.youtube.com/playlist?list=PLbkbERZFtSco",
+    "webpage_url_basename": "playlist",
+    "webpage_url_domain": "youtube.com",
+    "release_year": null,
+    "epoch": 1791748052
+}
